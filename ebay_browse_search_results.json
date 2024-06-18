@@ -1,44 +1,64 @@
 [
     {
-        "itemId": "v1|196217192737|496063550789",
-        "title": "2 Seater Velvet Sofa Modern Small Loveseat Couch for Bedroom Living Room Studio",
-        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=196217192737",
+        "itemId": "v1|384257904588|652467109902",
+        "title": "Men's T-shirts Short Sleeve Compression Base Layer Superhero Tights Gym Tops",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=384257904588",
         "leafCategoryIds": [
-            "38208"
+            "15687"
         ],
         "categories": [
             {
-                "categoryId": "38208",
-                "categoryName": "Sofas, Armchairs & Couches"
+                "categoryId": "15687",
+                "categoryName": "T-Shirts"
             },
             {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
+                "categoryId": "1059",
+                "categoryName": "Men's Clothing"
             },
             {
-                "categoryId": "3197",
-                "categoryName": "Furniture"
+                "categoryId": "260012",
+                "categoryName": "Men"
+            },
+            {
+                "categoryId": "185100",
+                "categoryName": "Shirts"
+            },
+            {
+                "categoryId": "11450",
+                "categoryName": "Clothing, Shoes & Accessories"
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/fbcAAOSwL6pluGCf/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/xPgAAOSw3V5g5Dor/s-l225.jpg"
         },
         "price": {
-            "value": "139.99",
+            "value": "13.29",
             "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C196217192737%7C496063550789",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C384257904588%7C652467109902",
         "seller": {
-            "username": "saleall2100",
-            "feedbackPercentage": "99.2",
-            "feedbackScore": 152061
+            "username": "wish20120306",
+            "feedbackPercentage": "98.0",
+            "feedbackScore": 19784
         },
-        "condition": "New",
-        "conditionId": "1000",
+        "marketingPrice": {
+            "originalPrice": {
+                "value": "13.99",
+                "currency": "USD"
+            },
+            "discountPercentage": "5",
+            "discountAmount": {
+                "value": "0.70",
+                "currency": "USD"
+            },
+            "priceTreatment": "MARKDOWN"
+        },
+        "condition": "New without tags",
+        "conditionId": "1500",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/fbcAAOSwL6pluGCf/s-l1200.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/xPgAAOSw3V5g5Dor/s-l1200.jpg"
             }
         ],
         "shippingOptions": [
@@ -53,57 +73,93 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/196217192737?var=496063550789&hash=item2daf74c121:g:fbcAAOSwL6pluGCf&amdata=enc%3AAQAJAAAA4PEaUTtyjRomc%2FfZSCEH8KizbMoUo%2FEgtt7RvBI5iveetYdLhg41zuttrVtMTz0dl6dz8jVZPkbhgIL8sgBG2EufumXDvLBUinE7Vnh9UNzS7On4DooXzYGf9SvAyhDDVH%2Fs07a4q54sGy2whO7QI5l7qL5Zlea0HUoHgva4uSAdNWYgrzf2kdWAoMzfgESZ9%2BjC1pEgUck6gGYrkD2Oj3gNzFkalnwuEmYRqehJ0fCik%2F4VaK8w9gv2lFntqn9l18K3wgUPENhfTxlE20UoP8IC3hgipdoiHWfuZOKeu5pf",
+        "itemWebUrl": "https://www.ebay.com/itm/384257904588?hash=item59778e4fcc:g:xPgAAOSw3V5g5Dor&amdata=enc%3AAQAJAAAA4MBHaq2sSRZ%2F7rN4kw1DL%2B8iw8ixnBuur%2BLW6OMOfzJe%2BW9uSRmnkexL75ixuXNyQjZeZZtlVO%2BdV0hgyysUPOAZ1geQKLSy4WVF4jhPrgnRa%2FnVQPhPnorfFLmcgUZs2ET0CUu80vKxFhBPQMAgmGOzS5nyxOHMN70zmjCi%2FvXqrQMyLy3hneOh62aF8X5TxT1k8MzJDx%2Bq9XxzddgzlLaZ%2BC0l9d1QdkVOudDlGezaS21Dr4X6ArAg5NL7rGWkrP1%2BMzZwTD4gdYCSe7PdX4nzTOX1m%2FCXI%2BJp236ANGpI",
         "itemLocation": {
-            "postalCode": "917**",
-            "country": "US"
+            "postalCode": "******",
+            "country": "CN"
         },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ZXgAAOSw6CFgfYZP/s-l225.jpg"
+            }
+        ],
         "adultOnly": false,
-        "legacyItemId": "196217192737",
+        "legacyItemId": "384257904588",
         "availableCoupons": false,
-        "itemCreationDate": "2024-01-30T02:40:47.000Z",
+        "itemCreationDate": "2021-07-04T16:41:50.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|375458391698|0",
-        "title": "FREE SHIPPING!! futon sofa couch bed sleeper In PINK",
+        "itemId": "v1|324791334202|513797376108",
+        "title": "Men Superhero 3D Base Layer Tee Compression T-Shirts Gym Jersey Tight Tops Long",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=324791334202",
         "leafCategoryIds": [
-            "38208"
+            "15687",
+            "185076"
         ],
         "categories": [
             {
-                "categoryId": "38208",
-                "categoryName": "Sofas, Armchairs & Couches"
+                "categoryId": "15687",
+                "categoryName": "T-Shirts"
             },
             {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
+                "categoryId": "185076",
+                "categoryName": "Activewear Tops"
             },
             {
-                "categoryId": "3197",
-                "categoryName": "Furniture"
+                "categoryId": "1059",
+                "categoryName": "Men's Clothing"
+            },
+            {
+                "categoryId": "260012",
+                "categoryName": "Men"
+            },
+            {
+                "categoryId": "185100",
+                "categoryName": "Shirts"
+            },
+            {
+                "categoryId": "11450",
+                "categoryName": "Clothing, Shoes & Accessories"
+            },
+            {
+                "categoryId": "185099",
+                "categoryName": "Activewear"
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/dcgAAOSwuFxmWIml/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/bv0AAOSwdO1hQmj3/s-l225.jpg"
         },
         "price": {
-            "value": "225.00",
+            "value": "14.24",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C375458391698%7C0",
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C324791334202%7C513797376108",
         "seller": {
-            "username": "trashqueenco",
-            "feedbackPercentage": "96.4",
-            "feedbackScore": 88
+            "username": "yanghai0121",
+            "feedbackPercentage": "96.1",
+            "feedbackScore": 15430
         },
-        "condition": "New",
-        "conditionId": "1000",
+        "marketingPrice": {
+            "originalPrice": {
+                "value": "14.99",
+                "currency": "USD"
+            },
+            "discountPercentage": "5",
+            "discountAmount": {
+                "value": "0.75",
+                "currency": "USD"
+            },
+            "priceTreatment": "MARKDOWN"
+        },
+        "condition": "New without tags",
+        "conditionId": "1500",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/dcgAAOSwuFxmWIml/s-l1200.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/bv0AAOSwdO1hQmj3/s-l960.jpg"
             }
         ],
         "shippingOptions": [
@@ -118,106 +174,133 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/375458391698?hash=item576b106692:g:dcgAAOSwuFxmWIml&amdata=enc%3AAQAJAAAA4NiAsWLxb55ZmGnJAUngvU8zE1mGmH30kv9I6GMaUM%2BMhG9bDg5j8oSp%2B%2BX6kbJkSqvnxpzcXcRNKCGw6%2FhBbYs2xeutAg9pTBniEcloAZImF6h5Zm1PHlsxhNrv5qM9K5iKXCmWyF5NlZtZzf%2BlcIXA5hDX1OOjNRfIgBFeq%2BOypjNuBq4shaE4stnR9J1ZW3gcs0OlrdZiEl005K0bQ6PLki8GqKf8XBgS5BtoSBOEVJyc%2BXqPV6VXHCIJxh7xaUJBeKKxLwDUfmkE70f5%2Bwoy6%2FFEY7HiRReZyQYfOYIU",
+        "itemWebUrl": "https://www.ebay.com/itm/324791334202?hash=item4b9f12753a:g:bv0AAOSwdO1hQmj3&amdata=enc%3AAQAJAAAA4EhqLJjrndVauA8Il%2B4Zdt9ejKrNVirfaHrtXkA4JaEbYIJODLvZUMT3dYKKcz%2B99Pul1EJkfun%2FdLQqO4eMnpu7ODLx0tpdQBcT4os1635cxKidZ8KcAzple10LDtZYruo5QPeEZ0%2B2DqOVmN5ji3I4ywhmb56be27SRbyLv%2FRZcQoiTx5UdrYn9GLyDalsEAnq0yMqq%2FPuMov5CNTl0FMGippSFv%2BXCq2L4viMeNTxJqMkCwsbHaXjnvBQ2uZ6gkYZUJ4G6DIqdddFsKwNLxSGJknNrfcNIT82MS9Bg7GU",
         "itemLocation": {
-            "postalCode": "384**",
-            "country": "US"
+            "postalCode": "******",
+            "country": "CN"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/tyoAAOSwKRdmWImn/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/md0AAOSwJcpmWImo/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WcoAAOSwsDZgm~qv/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "375458391698",
+        "legacyItemId": "324791334202",
         "availableCoupons": false,
-        "itemCreationDate": "2024-05-30T14:18:40.000Z",
+        "itemCreationDate": "2021-09-15T21:45:22.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|374766857563|0",
-        "title": "Velvet Couch 3 Seats Sofa Pink & Green & Beige",
+        "itemId": "v1|154517229275|454591989943",
+        "title": "Men's Summer T-shirts Superhero Superman Compression Tights Tops Fitness T shirt",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=154517229275",
         "leafCategoryIds": [
-            "38208"
+            "15687",
+            "179825"
         ],
         "categories": [
             {
-                "categoryId": "38208",
-                "categoryName": "Sofas, Armchairs & Couches"
+                "categoryId": "15687",
+                "categoryName": "T-Shirts"
             },
             {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
+                "categoryId": "179825",
+                "categoryName": "Compression & Base Layers"
             },
             {
-                "categoryId": "3197",
-                "categoryName": "Furniture"
+                "categoryId": "40884",
+                "categoryName": "Men's Clothing"
+            },
+            {
+                "categoryId": "1059",
+                "categoryName": "Men's Clothing"
+            },
+            {
+                "categoryId": "158913",
+                "categoryName": "Clothing & Accessories"
+            },
+            {
+                "categoryId": "888",
+                "categoryName": "Sporting Goods"
+            },
+            {
+                "categoryId": "260012",
+                "categoryName": "Men"
+            },
+            {
+                "categoryId": "185100",
+                "categoryName": "Shirts"
+            },
+            {
+                "categoryId": "11450",
+                "categoryName": "Clothing, Shoes & Accessories"
+            },
+            {
+                "categoryId": "15273",
+                "categoryName": "Fitness, Running & Yoga"
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ZNgAAOSwJmBkkkYL/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/tIgAAOSw0VBg4Kan/s-l225.jpg"
         },
         "price": {
-            "value": "229.00",
+            "value": "14.24",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C374766857563%7C0",
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C154517229275%7C454591989943",
         "seller": {
-            "username": "katli-68",
-            "feedbackPercentage": "96.0",
-            "feedbackScore": 24
+            "username": "wish20120306",
+            "feedbackPercentage": "98.0",
+            "feedbackScore": 19784
         },
-        "condition": "New",
-        "conditionId": "1000",
+        "marketingPrice": {
+            "originalPrice": {
+                "value": "14.99",
+                "currency": "USD"
+            },
+            "discountPercentage": "5",
+            "discountAmount": {
+                "value": "0.75",
+                "currency": "USD"
+            },
+            "priceTreatment": "MARKDOWN"
+        },
+        "condition": "New without tags",
+        "conditionId": "1500",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/ZNgAAOSwJmBkkkYL/s-l640.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/tIgAAOSw0VBg4Kan/s-l1200.jpg"
             }
         ],
         "shippingOptions": [
             {
                 "shippingCostType": "FIXED",
                 "shippingCost": {
-                    "value": "100.00",
+                    "value": "0.00",
                     "currency": "USD"
                 }
             }
         ],
         "buyingOptions": [
-            "FIXED_PRICE",
-            "BEST_OFFER"
+            "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/374766857563?hash=item5741d86d5b:g:ZNgAAOSwJmBkkkYL&amdata=enc%3AAQAJAAAA4DisBPxE8SJX0of%2Fd6kSPx%2B2DVD%2FL740ZdCoorRutAnrRXYz9bS4L9wyGzKuvbNPw9y0Zd24gCEw%2FHxAT6MPy0WbWpZ%2FpwSS%2BJp%2B%2Bx7nnewMmxi8gNo2O64YXqFIKEbb66%2Ftimq2%2B1ZobY7SBFWbd2tvBzha8vnzHyw5%2FGAjGaX0gR98Xs1xUAar14yy2AkHoMfVcCPwlJW9VXJaDbD76E4rEWuOs97MyFoHkRXjuP3vkOSI4SQBxgw0qR58S1M84c4g7s63Agsuwi%2FgFl2mC0AusQKftA1ec5QaiNrv8JVm",
+        "itemWebUrl": "https://www.ebay.com/itm/154517229275?hash=item23f9f1cedb:g:tIgAAOSw0VBg4Kan&amdata=enc%3AAQAJAAAA4L%2BxQ1MsR2qhK21gshy1KS4drJTEwzJTFhqSF5ELT6w0PXIiz%2BlfeuOySZ4qaysJQc%2BEkDOhpHfzwJ3WktKpvP9QboJG6RYgpamm8Nwp8UL6hYr2Hh0%2FNuBrLpH%2F4QPO7wmzg3HqB5k7OBq4AVc026f%2FzOjLlSD2crYvJsIVE0UY4tnmfkwmUPfeS9iaVQLajA3ZEhMc%2BqDlycK5zLlbM7c2XLoQIhhYL%2BL27jdTqvabRdWJaqL%2Bn0ksoXFhcn9PTmP1IgN35uk14bB6vCc5h8%2F3kDOFlyaoSlt3bRBYRb%2Fm",
         "itemLocation": {
-            "postalCode": "917**",
-            "country": "US"
+            "postalCode": "******",
+            "country": "CN"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/r9EAAOSwnEhkkkYM/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/t88AAOSwqRRkkkYW/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/tNIAAOSwDXJkkkYE/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/58UAAOSwSpVkkkYG/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qBIAAOSwWxNkkkYK/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WcoAAOSwsDZgm~qv/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "374766857563",
+        "legacyItemId": "154517229275",
         "availableCoupons": false,
-        "itemCreationDate": "2023-06-21T00:45:38.000Z",
+        "itemCreationDate": "2021-07-03T18:07:53.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
