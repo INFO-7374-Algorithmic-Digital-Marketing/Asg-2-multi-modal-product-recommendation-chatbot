@@ -1,7 +1,7 @@
 [
     {
-        "itemId": "v1|176308039592|0",
-        "title": "La Rochere - Bee Highball Glass - Set of 6",
+        "itemId": "v1|193371091007|0",
+        "title": "KANARS Whiskey Glass Set of 6 Scotch Glasses Tumbler 10 Oz Rock Barware Dad Gift",
         "leafCategoryIds": [
             "20696"
         ],
@@ -20,53 +20,92 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WKgAAOSwwcxmKdlU/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/t4MAAOSwc15eYM84/s-l225.jpg"
         },
         "price": {
-            "value": "83.95",
+            "value": "40.47",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C176308039592%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C193371091007%7C0",
         "seller": {
-            "username": "fragrantf40",
-            "feedbackPercentage": "96.8",
-            "feedbackScore": 29
+            "username": "kanars-direct",
+            "feedbackPercentage": "100.0",
+            "feedbackScore": 1007
+        },
+        "marketingPrice": {
+            "originalPrice": {
+                "value": "43.99",
+                "currency": "USD"
+            },
+            "discountPercentage": "8",
+            "discountAmount": {
+                "value": "3.52",
+                "currency": "USD"
+            },
+            "priceTreatment": "MARKDOWN"
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/WKgAAOSwwcxmKdlU/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/t4MAAOSwc15eYM84/s-l1200.jpg"
             }
         ],
         "shippingOptions": [
             {
                 "shippingCostType": "FIXED",
                 "shippingCost": {
-                    "value": "4.99",
+                    "value": "0.00",
                     "currency": "USD"
-                }
+                },
+                "minEstimatedDeliveryDate": "2024-06-22T07:00:00.000Z",
+                "maxEstimatedDeliveryDate": "2024-06-25T07:00:00.000Z",
+                "guaranteedDelivery": true
             }
         ],
         "buyingOptions": [
-            "FIXED_PRICE"
+            "FIXED_PRICE",
+            "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/176308039592?hash=item290cc72fa8:g:WKgAAOSwwcxmKdlU&amdata=enc%3AAQAJAAAA4IBoGu0Gxyemc61sFoMaZycyWwth%2BDor5rCRP1bhGFulnU8Au57TkWfRDCa0SrfkwnT3HBvjK1AhOFJD4OLTNwc0EvQTnPpqGGDJv5a77x6CnK%2BKWcWFT3mYiqXzC41KA13QSyt%2FkBuIs6Aj027atXhu40aNobHLLTA72gDC48j4U218w6DB7jxU1Uw%2B7wa%2BwmUuf76KJ%2F0DxQC96ZzxtMDr%2BuvS28JP%2F69MP99F%2FTt1GXy09t0CbXl1dTAM241M1hlQ65xJC6QTfxcB%2FESdl7MtYKlh%2BGBmAedsr5Ud4rvB",
+        "itemWebUrl": "https://www.ebay.com/itm/193371091007?hash=item2d05d0b03f:g:t4MAAOSwc15eYM84&amdata=enc%3AAQAJAAAA4OHXVedrFbYKLUjnHIp8R4br5ynKldtXAb5yEcNNAOEk9iD7FLEvY5HgBl569IRS%2B1LQAQnbBaNZcW6CeovI%2BtJhS%2FKrYOcwd3R3Y4IWyRGYnVMh1Ibocos0Pqmp1k8fJ7XzMZm%2BarjY3ffVJbyccmwGNmefvkJQ%2FMSejfDdQDf0kt53h8s2uOa1JDJTWiePBSA7xIvroZMtIzWwMbBPuC3gasCSoWu1hNbRfMMtDufGhRJPPcZ%2FqMoEn37oX7En5Cr7q%2Fj%2BEQb2dkJL3tUcnvmMJDqsVskxftzubYZD1tIc",
         "itemLocation": {
-            "postalCode": "336**",
+            "postalCode": "410**",
             "country": "US"
         },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/a1EAAOSw5JFeYM7t/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/w6gAAOSw409eYM9p/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/8IcAAOSwH49eYM-I/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/948AAOSwgoNeYM8e/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/VGYAAOSw25FeYM70/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/HI0AAOSwgyNeYM8o/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/k1IAAOSwoGdeYM78/s-l225.jpg"
+            }
+        ],
         "adultOnly": false,
-        "legacyItemId": "176308039592",
+        "legacyItemId": "193371091007",
         "availableCoupons": false,
-        "itemCreationDate": "2024-03-28T03:34:27.000Z",
+        "itemCreationDate": "2020-03-06T01:09:37.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|383963730905|0",
-        "title": "Highball Glass [Set of 12] Drinking Glasses for Water, Juice, Beer Coctails 10oz",
+        "itemId": "v1|315358315279|0",
+        "title": "16-Piece Drinkware Glass Set",
         "leafCategoryIds": [
             "20696"
         ],
@@ -85,23 +124,23 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/-5AAAOSwQuVgLqvA/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/AsQAAOSwVQpmGSJ4/s-l225.jpg"
         },
         "price": {
-            "value": "36.90",
+            "value": "25.53",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C383963730905%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C315358315279%7C0",
         "seller": {
-            "username": "alikilma-0",
-            "feedbackPercentage": "100.0",
-            "feedbackScore": 206
+            "username": "matian654",
+            "feedbackPercentage": "98.2",
+            "feedbackScore": 165
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/-5AAAOSwQuVgLqvA/s-l960.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/AsQAAOSwVQpmGSJ4/s-l225.jpg"
             }
         ],
         "shippingOptions": [
@@ -116,17 +155,403 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/383963730905?hash=item59660593d9:g:-5AAAOSwQuVgLqvA&amdata=enc%3AAQAJAAAA4PmZQTKZ3SYsgCdmvaZ6o9iqwkHnLWzJDmdPXS2sDXHK4HW7ZqP4B%2F5LmOtK7mNTe3DvDZMvfypnwYs9dbPR81VW%2BMLSmYti1nPY96hVuHqZs72k4s53OorQRXWp4JGzwoZnerPhAJGO%2Bz2BBCN0cWBjUbfi89b4XLxjDUCVny1M5ss9rlH0KECSgez51TUWPpsC%2Bb%2FcKJYJeCY%2Bx2UtESqlJNouzr3GaAsYI2O4vgWo8MHNTT%2FyvOv5%2FLnmWstNho%2FUiSdFYpSejMRF1iTpgQRfxfjVE8udo85Mevoy%2B6x0",
+        "itemWebUrl": "https://www.ebay.com/itm/315358315279?hash=item496cd2030f:g:AsQAAOSwVQpmGSJ4&amdata=enc%3AAQAJAAAA4KTomANfrh4U1zqaDjJRL6S20Jeggb4p8tdSLHTi7GUFomJfBq8PBX3nPzDFiPibaMLAviROqM%2BFt5dA6IY39xwHa7n6fJh1UeJGNQWVOua%2B7o7%2Bnwite0FvgHoPmKTcUFJEc72yefLTi7belVedH7X7iyY%2FCzwXculGi1QcfequNCoBnyR4nAXeE553DvX0ZthrLYTqFHcU79UIjWUvBVpGAF%2FRS6ADobSV74YUVme8LZN0R0Po7BZuZtNEOVlaqi1KhqR11edW8xaX1WZuhfvi7fWWZWyWRaydPjbQQ829",
         "itemLocation": {
-            "postalCode": "950**",
+            "country": "US"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/n4cAAOSwjPJmGSJ5/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/VX0AAOSwLU1mGSJ7/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/EoUAAOSwPMxmGSJ8/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/vqQAAOSwqAZmGSJ9/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ojgAAOSw2DhmGSJ-/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/KPUAAOSwrIpmGSJ~/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/n4cAAOSwjPJmGSJ5/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/VX0AAOSwLU1mGSJ7/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/EoUAAOSwPMxmGSJ8/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/vqQAAOSwqAZmGSJ9/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ojgAAOSw2DhmGSJ-/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/KPUAAOSwrIpmGSJ~/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "315358315279",
+        "availableCoupons": false,
+        "itemCreationDate": "2024-05-11T06:20:26.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|126231886484|0",
+        "title": "American Atelier Vintage Art Deco Fluted Drinking Glasses, Set of 4, 11 oz Green",
+        "leafCategoryIds": [
+            "20696"
+        ],
+        "categories": [
+            {
+                "categoryId": "20696",
+                "categoryName": "Glassware & Drinkware"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "20625",
+                "categoryName": "Kitchen, Dining & Bar"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/08QAAOSwpBhld1zR/s-l225.jpg"
+        },
+        "price": {
+            "value": "39.99",
+            "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126231886484%7C0",
+        "seller": {
+            "username": "theprunedanish",
+            "feedbackPercentage": "99.1",
+            "feedbackScore": 339118
+        },
+        "marketingPrice": {
+            "originalPrice": {
+                "value": "49.99",
+                "currency": "USD"
+            },
+            "discountPercentage": "20",
+            "discountAmount": {
+                "value": "10.00",
+                "currency": "USD"
+            },
+            "priceTreatment": "LIST_PRICE"
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/08QAAOSwpBhld1zR/s-l1600.jpg"
+            }
+        ],
+        "shippingOptions": [
+            {
+                "shippingCostType": "FIXED",
+                "shippingCost": {
+                    "value": "0.00",
+                    "currency": "USD"
+                }
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE",
+            "BEST_OFFER"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/126231886484?hash=item1d6401ba94:g:08QAAOSwpBhld1zR&amdata=enc%3AAQAJAAAA4HHdYnsgRd5cMte7i6yUwYhzYtYHlAQKXinCQ2KZxhmfUpih1cAOWpxzpe7mVk%2F4tDsnfpEbR0EH6pzMPX24Jw3xEHzHWz8MDjcPY%2FsOlydGHKDY6NtP1k7hgsgB97sNUwg2uTQWElGsafPA0W3go5VBWdTtstBQyYMZeH99hgsxBEhib0Nwq%2FSMlDbcxukLNSWNqW6W7YEwTbOiKzz6d9%2Bcqs39Hmj7f%2F9kq1rOa0aEdLoDc2zlLlUP7fziqaFegT0NoJkPIny4TZMXFsksq0RxTbD6CpC60LwGQ7stczMW",
+        "itemLocation": {
+            "postalCode": "112**",
+            "country": "US"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/SQEAAOSwas5ld1zU/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qX4AAOSwy1Rld1zW/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Z5sAAOSwf0hld1zZ/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/bZkAAOSwtZBld1zc/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/j3AAAOSw8-pld1ze/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ctsAAOSwyMlld1zi/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "126231886484",
+        "availableCoupons": false,
+        "itemCreationDate": "2023-12-11T19:02:59.000Z",
+        "topRatedBuyingExperience": true,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|276495619033|579077273898",
+        "title": "Veuve Orange Plastic Champagne Flute Glass | Matching Ice Bucket Set Options",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=276495619033",
+        "leafCategoryIds": [
+            "20696"
+        ],
+        "categories": [
+            {
+                "categoryId": "20696",
+                "categoryName": "Glassware & Drinkware"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "20625",
+                "categoryName": "Kitchen, Dining & Bar"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/uz8AAOSw8tBmX91X/s-l225.jpg"
+        },
+        "price": {
+            "value": "113.99",
+            "currency": "USD"
+        },
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276495619033%7C579077273898",
+        "seller": {
+            "username": "busti.navi",
+            "feedbackPercentage": "99.0",
+            "feedbackScore": 2891
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/uz8AAOSw8tBmX91X/s-l1600.jpg"
+            }
+        ],
+        "shippingOptions": [
+            {
+                "shippingCostType": "FIXED",
+                "shippingCost": {
+                    "value": "0.00",
+                    "currency": "USD"
+                }
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/276495619033?hash=item40606c53d9:g:uz8AAOSw8tBmX91X&amdata=enc%3AAQAJAAAA4OZMFtPFHGDlGkFT2epKbnuLvQDUg4SxXKeo8TnwG8C%2BCj46W%2FQ8AREd4C1My5Y%2Fkb7rxxx3TUywypwC3BWUEQPR2ukWnwddRBJdJRoe%2FSa1bG9umLwlrWBQB9dC5B%2FRLPqS%2FmBvzFGCvSBrO2of280cZEq0Dv1zDSADhXo4n%2Bp54dbpk7EDtwOc%2BuBUsJTNLB25Ble%2BhI4SGWIvIjuuS1%2B2zYL%2BrSFyK4yPXeUoTjAJGySlBawmdT04Ns%2F6F0pcC8QPfqaCU02vQr0D%2FF1MalyzJba3iQKHQrrFbSp7y4TT",
+        "itemLocation": {
+            "postalCode": "331**",
+            "country": "US"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/UJEAAOSwcI5mX93s/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/xBQAAOSw6~FmX93z/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/60sAAOSweGtmX935/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/2dIAAOSwtppmX93-/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/JskAAOSwCepmX939/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/m9wAAOSw~kdmX94E/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/SekAAOSwkE9mX94E/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/KPMAAOSwcAZmX94K/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/TWEAAOSwvqVmX94T/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Pg4AAOSwqJdmX94X/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "276495619033",
+        "availableCoupons": false,
+        "itemCreationDate": "2024-06-05T04:01:58.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|266858068308|0",
+        "title": "Floral Double Old Fashioned Glass Set of 6 (DOF) Drinking Glasses 13.5oz Made...",
+        "leafCategoryIds": [
+            "20696"
+        ],
+        "categories": [
+            {
+                "categoryId": "20696",
+                "categoryName": "Glassware & Drinkware"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "20625",
+                "categoryName": "Kitchen, Dining & Bar"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/bfwAAOSw-sFmanaq/s-l225.jpg"
+        },
+        "price": {
+            "value": "25.41",
+            "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C266858068308%7C0",
+        "seller": {
+            "username": "usa*stores",
+            "feedbackPercentage": "97.7",
+            "feedbackScore": 105590
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/bfwAAOSw-sFmanaq/s-l1600.jpg"
+            }
+        ],
+        "shippingOptions": [
+            {
+                "shippingCostType": "FIXED",
+                "shippingCost": {
+                    "value": "0.00",
+                    "currency": "USD"
+                },
+                "minEstimatedDeliveryDate": "2024-06-21T07:00:00.000Z",
+                "maxEstimatedDeliveryDate": "2024-06-22T07:00:00.000Z",
+                "guaranteedDelivery": true
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE"
+        ],
+        "epid": "17068216750",
+        "itemWebUrl": "https://www.ebay.com/itm/266858068308?hash=item3e21faf954:g:bfwAAOSw-sFmanaq",
+        "itemLocation": {
+            "country": "US"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/CwkAAOSwt1Zmanar/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/J5UAAOSwZ-Vmanas/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/JCQAAOSwDYFmanat/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/AIUAAOSwaW9manau/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/spQAAOSwmlBmanav/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "266858068308",
+        "availableCoupons": false,
+        "itemCreationDate": "2024-06-13T04:33:53.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|296514446717|594435185803",
+        "title": "Custom Etched Osbourne Cruiser Rocks Drinking Glasses Whiskey Gift Set Name",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=296514446717",
+        "leafCategoryIds": [
+            "20696"
+        ],
+        "categories": [
+            {
+                "categoryId": "20696",
+                "categoryName": "Glassware & Drinkware"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "20625",
+                "categoryName": "Kitchen, Dining & Bar"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/msoAAOSwzbtmcvxh/s-l225.jpg"
+        },
+        "price": {
+            "value": "18.59",
+            "currency": "USD"
+        },
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C296514446717%7C594435185803",
+        "seller": {
+            "username": "torodr_77",
+            "feedbackPercentage": "100.0",
+            "feedbackScore": 362
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/msoAAOSwzbtmcvxh/s-l1200.jpg"
+            }
+        ],
+        "shippingOptions": [
+            {
+                "shippingCostType": "FIXED",
+                "shippingCost": {
+                    "value": "0.00",
+                    "currency": "USD"
+                }
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/296514446717?hash=item4509a3657d:g:msoAAOSwzbtmcvxh",
+        "itemLocation": {
+            "postalCode": "062**",
             "country": "US"
         },
         "adultOnly": false,
-        "legacyItemId": "383963730905",
+        "legacyItemId": "296514446717",
         "availableCoupons": false,
-        "itemCreationDate": "2021-02-18T18:06:31.000Z",
+        "itemCreationDate": "2024-06-19T15:43:48.000Z",
         "topRatedBuyingExperience": false,
-        "priorityListing": true,
+        "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
     },
     {
@@ -160,7 +585,7 @@
         "seller": {
             "username": "takensave",
             "feedbackPercentage": "99.5",
-            "feedbackScore": 4442
+            "feedbackScore": 4444
         },
         "condition": "New",
         "conditionId": "1000",
@@ -181,7 +606,7 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/176315100773?hash=item290d32ee65:g:cxYAAOSw~kRmC16C&amdata=enc%3AAQAJAAAA4Gz%2BqoSuwacLmagZSHCmiwtE9VWdcIB996wiV%2FAscaEsN88sCz1G264fqKBqqDf2AH5VFzjWPyuLYA8Bhaf3zG4NW%2BKUqd2Zv3dmpK9%2F9xGPXhbah8cYAgareIP1kMo9BGI6C39Z2Cc0Mav%2FeFW8%2Fz6y4TZSCEwaQteFs2j%2FUs%2FJ4Y4yjZiI0kRCS1DIGS0BXBgTVHJ1%2BBWRvdqkZOoKIPEvsU65UQTkZ%2Fspu2Yl9RA7Yl1z3%2FyVJZu9%2FnZx7WoV5eJCmPDbxU3O9CBx3B%2F1%2FTfxI%2FtF6yQxiW8s5A%2FFqcZn",
+        "itemWebUrl": "https://www.ebay.com/itm/176315100773?hash=item290d32ee65:g:cxYAAOSw~kRmC16C",
         "itemLocation": {
             "postalCode": "926**",
             "country": "US"
@@ -217,105 +642,7 @@
         "availableCoupons": false,
         "itemCreationDate": "2024-04-02T01:27:54.000Z",
         "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|143397722196|0",
-        "title": "Bormioli Rocco Romantic Glass Drinking Tumbler 10.25 Oz Set Of 4 - Pastel Green",
-        "leafCategoryIds": [
-            "20696"
-        ],
-        "categories": [
-            {
-                "categoryId": "20696",
-                "categoryName": "Glassware & Drinkware"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "20625",
-                "categoryName": "Kitchen, Dining & Bar"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/VjUAAOSw3ZRkiGrJ/s-l225.jpg"
-        },
-        "price": {
-            "value": "26.99",
-            "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C143397722196%7C0",
-        "seller": {
-            "username": "theprunedanish",
-            "feedbackPercentage": "99.1",
-            "feedbackScore": 339105
-        },
-        "marketingPrice": {
-            "originalPrice": {
-                "value": "34.00",
-                "currency": "USD"
-            },
-            "discountPercentage": "21",
-            "discountAmount": {
-                "value": "7.01",
-                "currency": "USD"
-            },
-            "priceTreatment": "LIST_PRICE"
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/VjUAAOSw3ZRkiGrJ/s-l1600.jpg"
-            }
-        ],
-        "shippingOptions": [
-            {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "0.00",
-                    "currency": "USD"
-                }
-            }
-        ],
-        "buyingOptions": [
-            "FIXED_PRICE"
-        ],
-        "epid": "815021243",
-        "itemWebUrl": "https://www.ebay.com/itm/143397722196?hash=item21632b9854:g:VjUAAOSw3ZRkiGrJ&amdata=enc%3AAQAJAAAA4PPJh7vuz8ODeEboKCjoYGkpG4KW2JJTOf44ye44Imtr%2Bn83WI0Iw%2B2h4JDileSsRolekUlj3lr%2FQ5FVjj%2B8keg6EhsHDDZo%2F3v16UwgMmFAb%2BroLxXb0peZILd4mMCijUBBUrqHgRcPzCxK9S%2FOCiWcUxyZF5FGVhJMZqZTtyD%2F%2BE24IHeL7vhU2RcElS1qwuEA%2BglHsaymPUZVB4nNUAQy55RAvSOEERz%2Fwy0KGDFFMGdcnaCpY0kdDzonpXuujOmcPXUVBacr%2FPHkr4N3BjgAB7fKDpFh9%2BMHpvhLPH0%2B",
-        "itemLocation": {
-            "postalCode": "112**",
-            "country": "US"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/TfIAAOSwHMNkiGrL/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WFAAAOSwIsJkiGrM/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/8YgAAOSwke9kiGrN/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/KtMAAOSwztxkiGrN/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/S5wAAOSwHJRkiGrP/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MGAAAOSwI2pkiGrQ/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "143397722196",
-        "availableCoupons": false,
-        "itemCreationDate": "2019-09-29T15:37:22.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
+        "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
     },
     {
@@ -406,8 +733,8 @@
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|256547583468|0",
-        "title": "Vintage Holiday Tumbler Glass Set Badcock Home  Furnishing Centers 8 Piece 16 oz",
+        "itemId": "v1|135111302245|0",
+        "title": "Portofino White Dot Wine Glass \u2013 Navy Set Of 4",
         "leafCategoryIds": [
             "20696"
         ],
@@ -426,69 +753,55 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/odIAAOSwyNFikM9N/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/g-UAAOSw8fhmcuen/s-l225.jpg"
         },
         "price": {
-            "value": "18.50",
+            "value": "28.00",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256547583468%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C135111302245%7C0",
         "seller": {
-            "username": "jbuck517",
+            "username": "shalav",
             "feedbackPercentage": "100.0",
-            "feedbackScore": 71
+            "feedbackScore": 689
         },
         "condition": "New other (see details)",
         "conditionId": "1500",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/odIAAOSwyNFikM9N/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/g-UAAOSw8fhmcuen/s-l1600.jpg"
             }
         ],
-        "pickupOptions": [
+        "shippingOptions": [
             {
-                "pickupLocationType": "ARRANGED_LOCATION"
+                "shippingCostType": "FIXED",
+                "shippingCost": {
+                    "value": "12.00",
+                    "currency": "USD"
+                }
             }
         ],
         "buyingOptions": [
             "FIXED_PRICE",
             "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/256547583468?hash=item3bbb6d75ec:g:odIAAOSwyNFikM9N",
+        "itemWebUrl": "https://www.ebay.com/itm/135111302245?hash=item1f7542dc65:g:g-UAAOSw8fhmcuen",
         "itemLocation": {
-            "postalCode": "362**",
+            "postalCode": "731**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/F0YAAOSwWXJikM9P/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/0fEAAOSwfXZmcuep/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/~hYAAOSwSIxikM9Q/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/hzsAAOSwJaZikM9R/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/RuQAAOSwqGlikM9T/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qDoAAOSwdfJikM9V/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/jE4AAOSweZtjx-Np/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/H6MAAOSwYeNjx-OC/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/4sYAAOSwFZ1jx-OU/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/t7QAAOSwMN9mcuer/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "256547583468",
+        "legacyItemId": "135111302245",
         "availableCoupons": false,
-        "itemCreationDate": "2024-06-18T23:33:06.000Z",
+        "itemCreationDate": "2024-06-19T14:15:04.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
@@ -523,8 +836,8 @@
         "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C375417327553%7C0",
         "seller": {
             "username": "sadakanshop",
-            "feedbackPercentage": "99.2",
-            "feedbackScore": 130
+            "feedbackPercentage": "98.5",
+            "feedbackScore": 129
         },
         "condition": "New",
         "conditionId": "1000",
@@ -580,76 +893,6 @@
         "legacyItemId": "375417327553",
         "availableCoupons": false,
         "itemCreationDate": "2024-05-08T03:29:13.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|235420317232|0",
-        "title": "Set of 2 Double Wall Insulated Glass Rocks Whiskey Old Fashioned Glass 10oz",
-        "leafCategoryIds": [
-            "20696"
-        ],
-        "categories": [
-            {
-                "categoryId": "20696",
-                "categoryName": "Glassware & Drinkware"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "20625",
-                "categoryName": "Kitchen, Dining & Bar"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/9QYAAOSw8ARlwn0s/s-l225.jpg"
-        },
-        "price": {
-            "value": "17.99",
-            "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235420317232%7C0",
-        "seller": {
-            "username": "valuebuy909",
-            "feedbackPercentage": "98.4",
-            "feedbackScore": 39771
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/9QYAAOSw8ARlwn0s/s-l1200.jpg"
-            }
-        ],
-        "shippingOptions": [
-            {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "0.00",
-                    "currency": "USD"
-                }
-            }
-        ],
-        "buyingOptions": [
-            "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/235420317232?hash=item36d024f630:g:9QYAAOSw8ARlwn0s",
-        "itemLocation": {
-            "postalCode": "928**",
-            "country": "US"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/yHMAAOSwXP5lwn0s/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "235420317232",
-        "availableCoupons": false,
-        "itemCreationDate": "2024-02-06T18:42:07.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
@@ -732,8 +975,8 @@
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|186440867640|0",
-        "title": "Mainstays 12 Piece Radiant Drinking Glasses Set, 16 oz & 12 oz Clear Glasses",
+        "itemId": "v1|186441766974|0",
+        "title": "Mainstays Arabella Drinking Glass, 16 oz Clear Tumbler, Set of 12",
         "leafCategoryIds": [
             "20696"
         ],
@@ -752,13 +995,13 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/lv8AAOSw8h1mQsvo/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/PBEAAOSw4y5mQ6rh/s-l225.jpg"
         },
         "price": {
             "value": "17.90",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C186440867640%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C186441766974%7C0",
         "seller": {
             "username": "storew",
             "feedbackPercentage": "88.2",
@@ -768,7 +1011,7 @@
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/lv8AAOSw8h1mQsvo/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/PBEAAOSw4y5mQ6rh/s-l1600.jpg"
             }
         ],
         "shippingOptions": [
@@ -784,40 +1027,36 @@
             "FIXED_PRICE",
             "BEST_OFFER"
         ],
-        "epid": "8067492803",
-        "itemWebUrl": "https://www.ebay.com/itm/186440867640?hash=item2b68bddf38:g:lv8AAOSw8h1mQsvo",
+        "itemWebUrl": "https://www.ebay.com/itm/186441766974?hash=item2b68cb983e:g:PBEAAOSw4y5mQ6rh",
         "itemLocation": {
             "postalCode": "917**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/4tAAAOSwkapmQsvp/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/vC4AAOSwYmNmQ6rh/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/zXkAAOSw3AJmQsvq/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3GgAAOSw9g5mQ6rn/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/2EoAAOSw4VpmQsvp/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/KWoAAOSwrlpmQ6rl/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Y6QAAOSwI9ZmQsvr/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Xq0AAOSwSvVmQsvp/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/DUkAAOSwsW1mQ6rj/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "186440867640",
+        "legacyItemId": "186441766974",
         "availableCoupons": false,
-        "itemCreationDate": "2024-05-14T02:26:52.000Z",
+        "itemCreationDate": "2024-05-14T18:18:19.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|355804419037|0",
-        "title": "Vintage Color Stripped Tumblers Set Of 4",
+        "itemId": "v1|145228257161|0",
+        "title": "Amici Home Authentic Mexican Handmade 16oz Highball Glasses, Set of 6 - Lime Rim",
         "leafCategoryIds": [
             "20696"
         ],
@@ -836,97 +1075,35 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/2DMAAOSwdABmcjmI/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/uIYAAOSwLgJk-cmF/s-l225.jpg"
         },
         "price": {
-            "value": "18.00",
+            "value": "29.99",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C355804419037%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C145228257161%7C0",
         "seller": {
-            "username": "southernfindsvintage",
-            "feedbackPercentage": "100.0",
-            "feedbackScore": 26
+            "username": "theprunedanish",
+            "feedbackPercentage": "99.1",
+            "feedbackScore": 339118
         },
-        "condition": "Used",
-        "conditionId": "3000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/2DMAAOSwdABmcjmI/s-l1600.jpg"
-            }
-        ],
-        "shippingOptions": [
-            {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "10.00",
-                    "currency": "USD"
-                }
-            }
-        ],
-        "buyingOptions": [
-            "FIXED_PRICE",
-            "BEST_OFFER"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/355804419037?hash=item52d79893dd:g:2DMAAOSwdABmcjmI",
-        "itemLocation": {
-            "postalCode": "424**",
-            "country": "US"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/BVUAAOSwmlBmcjl-/s-l225.jpg"
+        "marketingPrice": {
+            "originalPrice": {
+                "value": "65.00",
+                "currency": "USD"
             },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Z4gAAOSwOPdmcjl~/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "355804419037",
-        "availableCoupons": false,
-        "itemCreationDate": "2024-06-19T01:53:17.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|256316644419|0",
-        "title": "Whiskey Glass Set Of 2 Stainless Steel Bourbon Glassesdouble Walled Whiskey Tumb",
-        "leafCategoryIds": [
-            "20696"
-        ],
-        "categories": [
-            {
-                "categoryId": "20696",
-                "categoryName": "Glassware & Drinkware"
+            "discountPercentage": "54",
+            "discountAmount": {
+                "value": "35.01",
+                "currency": "USD"
             },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "20625",
-                "categoryName": "Kitchen, Dining & Bar"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/wN4AAOSwMwVlYsrP/s-l225.jpg"
-        },
-        "price": {
-            "value": "17.74",
-            "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256316644419%7C0",
-        "seller": {
-            "username": "mondaychu",
-            "feedbackPercentage": "99.3",
-            "feedbackScore": 3069
+            "priceTreatment": "LIST_PRICE"
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/wN4AAOSwMwVlYsrP/s-l500.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/uIYAAOSwLgJk-cmF/s-l1600.jpg"
             }
         ],
         "shippingOptions": [
@@ -941,43 +1118,51 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "epid": "9052502916",
-        "itemWebUrl": "https://www.ebay.com/itm/256316644419?hash=item3bada99c43:g:wN4AAOSwMwVlYsrP",
+        "itemWebUrl": "https://www.ebay.com/itm/145228257161?hash=item21d0475789:g:uIYAAOSwLgJk-cmF&amdata=enc%3AAQAJAAAA4MsGqMLcTxgPK6a3jlF5gGHuq6mREfq5pWIdbK4%2Fx5tIcrDhQKxYB9FijKydSwfpUkYlpCMUvMPMwdp0HkuzUoqDX8nHJKg7P2C8dIQjmLFOCS1vOjLdoT%2FQLq10lohuXC8Al5nbwrf0I%2FIeZNUzGJYboYdF9iwAO04lkZVXn90Y54sm9q%2FWIQj8PcVY3Hud5kJBY6MYyGxaOFgrlatL63wQDPwQtKx7ANo6z6m8fBmESlmI8vQ4nQWf2xZfEly%2Be3Sx5DydoiCpQtMCQuTbRlPh%2F3ayIwaUCghrsUt2z525",
         "itemLocation": {
-            "postalCode": "770**",
+            "postalCode": "112**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qkYAAOSw6VJlYsrP/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WMUAAOSwDcpk-cmG/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Dh8AAOSwQMdlYsrP/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/BmYAAOSwZRVk-cmH/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/W1AAAOSwkbBlYsrP/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/zzMAAOSwXL1k-cmK/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ToYAAOSwQCplYsrP/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/pDkAAOSwOK9k-cmL/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/paMAAOSwGYVlYsrP/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/onoAAOSw0-9k-cmO/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rHYAAOSwh45lYsrP/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MLQAAOSwhf9k-cmR/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/aSUAAOSwaFtk-cmU/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/IVgAAOSw5Bdk-cmW/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/APAAAOSw-u5k-cmb/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "256316644419",
+        "legacyItemId": "145228257161",
         "availableCoupons": false,
-        "itemCreationDate": "2023-11-26T04:34:25.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
+        "itemCreationDate": "2023-08-06T02:06:18.000Z",
+        "topRatedBuyingExperience": true,
+        "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|314276400061|0",
-        "title": "4 count LIBBEY 5.75 OZ sheer rim rocks beverage whiskey rocks glass SET OF 4 NEW",
+        "itemId": "v1|165677255449|0",
+        "title": "Elegant and Modern Russian Cut Crystal Martini Glass Set - 180ml, 6oz, Set of 6",
         "leafCategoryIds": [
             "20696"
         ],
@@ -996,23 +1181,23 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qBMAAOSw88pjm4av/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/P-wAAOSw1yNjIu0R/s-l225.jpg"
         },
         "price": {
-            "value": "24.99",
+            "value": "53.99",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C314276400061%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C165677255449%7C0",
         "seller": {
-            "username": "my-kitchen-supplies",
-            "feedbackPercentage": "92.9",
-            "feedbackScore": 284
+            "username": "world-faith",
+            "feedbackPercentage": "97.9",
+            "feedbackScore": 1831
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/qBMAAOSw88pjm4av/s-l1200.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/P-wAAOSw1yNjIu0R/s-l1600.jpg"
             }
         ],
         "shippingOptions": [
@@ -1028,27 +1213,28 @@
             "FIXED_PRICE",
             "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/314276400061?hash=item492c554bbd:g:qBMAAOSw88pjm4av&amdata=enc%3AAQAJAAAA4PT9Ev%2B4%2BdTQk5%2FmgWKP76ek6ApuWHNFRC3TSJiMfgZy9FRMwnQXlIGOcOYh08zeJtbmLofWzvnqlTIF%2FmZRVofMjw7RZDBo8UZepnz17zkqS68dhsUqlSRm96%2Bgjm5OgolzWaVX0KoeMPe9EBXQBQY4SLAcpzCyO1BDExEmb459Hck4nYQs%2BEDMp20FYC7IxXGZ2i5PslXNBioSOZRR%2Fs4pLL8dgzZ67YpSDm5ZObnknn933d0izamj6SrOApof8leBv8WbNZqNfznIS%2FnttdVLjvUG5thWpfEp0thws8Vg",
+        "itemWebUrl": "https://www.ebay.com/itm/165677255449?hash=item2693224b19:g:P-wAAOSw1yNjIu0R&amdata=enc%3AAQAJAAAA4H1R%2B2T00j5AuFTB%2FQrCw9QWF0Gq1huVSB2zjRF9JvKwRZvVjuSj4OBBzLKODEulyLfd2dFR%2FflEivmo4p83ovWBU7kid4hSuseQgkP%2Fuv2ZZfrv1bhxpEb2YJaN9n2q%2Bdb%2BYYDQCKGXGWoy5HUCDz9F2m2jdT48jHVTKvKTfJOBhiW1AXk8L7J4VpAMz0yGWavc7Uhkxxn%2FbvtIAXNyJIS8WgA71b8IeC2ggRBaSlAlmLhTP%2BC7RIFaYIFVkZUCyBi7Qq2tf6noMBH684X1MY5xUiili2lZvyOtUGGliYd8",
         "itemLocation": {
-            "postalCode": "837**",
+            "postalCode": "074**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/yC0AAOSwrwtjm4au/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/S20AAOSw~M9hi6Jo/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "314276400061",
+        "legacyItemId": "165677255449",
         "availableCoupons": false,
-        "itemCreationDate": "2022-12-15T20:43:15.000Z",
+        "itemCreationDate": "2022-09-15T09:15:02.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|176349062047|0",
-        "title": "La Rochere - Bee Ice tea Glass- Set of 6",
+        "itemId": "v1|285776350537|587797525023",
+        "title": "Set of 6 Unbreakable Premium Drinking Glasses, 6 Colors Stackable",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=285776350537",
         "leafCategoryIds": [
             "20696"
         ],
@@ -1067,13 +1253,92 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WB0AAOSwgC1mKdnO/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/RMoAAOSw47xl~BLZ/s-l225.jpg"
         },
         "price": {
-            "value": "70.95",
+            "value": "23.99",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C176349062047%7C0",
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C285776350537%7C587797525023",
+        "seller": {
+            "username": "lengrongs56",
+            "feedbackPercentage": "100.0",
+            "feedbackScore": 31
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/RMoAAOSw47xl~BLZ/s-l960.jpg"
+            }
+        ],
+        "shippingOptions": [
+            {
+                "shippingCostType": "FIXED",
+                "shippingCost": {
+                    "value": "0.00",
+                    "currency": "USD"
+                }
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/285776350537?hash=item4289990d49:g:RMoAAOSw47xl~BLZ&amdata=enc%3AAQAJAAAA4A5q5JRERVHKj5jCZGKS%2F4RhuSZ%2BgdKQRNw0%2F6u5WS%2FxzX%2BNz%2FXCeT1UV4OvPoecv6UFA%2BcLoqJqjbQRpOid%2FZ0g3qUYZDKvIh34TiqkhfTLTFqH%2F2rYRzYwxKIyqW22AmWE4Tvkcce2QJoQ1yjg4WYzzEg7Ze83IJMMR4FfCb6qfN%2BJj%2Ffwh4d10dpNfEwUvO6r3O9nmjgNovCIVBKLwAk5T00ofaq6nm%2FG6SePKyZSUPWXDff1WRHqRdlaA6KwnYG7IwGzWnebInTFfI8TIf3vMMRFf9Rxw7yaFh5I1jEk",
+        "itemLocation": {
+            "country": "CN"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/jJ8AAOSwXFxl~BLn/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/iokAAOSwOT5l~BMC/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ancAAOSw7jVl~BLa/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/X2gAAOSwVv1l~BMQ/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "285776350537",
+        "availableCoupons": false,
+        "itemCreationDate": "2024-03-21T11:14:19.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|176308039592|0",
+        "title": "La Rochere - Bee Highball Glass - Set of 6",
+        "leafCategoryIds": [
+            "20696"
+        ],
+        "categories": [
+            {
+                "categoryId": "20696",
+                "categoryName": "Glassware & Drinkware"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "20625",
+                "categoryName": "Kitchen, Dining & Bar"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WKgAAOSwwcxmKdlU/s-l225.jpg"
+        },
+        "price": {
+            "value": "83.95",
+            "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C176308039592%7C0",
         "seller": {
             "username": "fragrantf40",
             "feedbackPercentage": "96.8",
@@ -1083,7 +1348,7 @@
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/WB0AAOSwgC1mKdnO/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/WKgAAOSwwcxmKdlU/s-l1600.jpg"
             }
         ],
         "shippingOptions": [
@@ -1098,30 +1363,22 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/176349062047?hash=item290f39239f:g:WB0AAOSwgC1mKdnO&amdata=enc%3AAQAJAAAA4AEAHPM%2FRXM2OFYPW2%2Fgbgy77PhFTG6O1Xtpbcdl05%2F%2BbborUdgvmrfRTeULU%2FbLyYc8sRnipD1lQcQkQSF2yaR4cLzf%2Fl%2FTSNpp4flK4mwu71up72yK6LV4yJQhqWSV4yFqcPgH10M9G94y0TUQe%2FW77hsSDJjorC4tfUNesjrbPXRerCZRBUVmgT0LTBiHdZJuawKO98Q7HWkGWCh%2FzaHHo7Prepy%2BArIJPbF%2BSKYWHH9Ms3Cax4zQQXpUCYvclqs3Si4q259oOIiFS3cTE%2Fha9q%2BmfHes92WId7AtMA1w",
+        "itemWebUrl": "https://www.ebay.com/itm/176308039592?hash=item290cc72fa8:g:WKgAAOSwwcxmKdlU&amdata=enc%3AAQAJAAAA4IBoGu0Gxyemc61sFoMaZydXTGdIv9eEnefLOF9NdIzWRPjeeLhKlLs11E8h3lNEuXQND9SxrHo1fnGMT1JmMyMdRSggi1aI%2FfE7IMdzTRAh6Ws2AcgKll24GyEC9Xx2QYAZ9r7qdMMzRNpQGdXQCivgEoXTGSTofpr7RCoD5PapdLtih%2BDdAeTrlITrsEb6ZuxI5wnlpymBvx%2BPrwVq7Q0QfJq1kyI1jiMbqOQvEr6oQ9fCQU7GQz6yQTr6WKEOc1Y1YDZY9Js%2BngghDqI1mBjYYk2DdZtQJIb6eBB%2Fv8ha",
         "itemLocation": {
             "postalCode": "336**",
             "country": "US"
         },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/hXkAAOSwf1FmKdnP/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/nf4AAOSw29FmKdnP/s-l225.jpg"
-            }
-        ],
         "adultOnly": false,
-        "legacyItemId": "176349062047",
+        "legacyItemId": "176308039592",
         "availableCoupons": false,
-        "itemCreationDate": "2024-04-25T04:18:26.000Z",
+        "itemCreationDate": "2024-03-28T03:34:27.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|235515677999|0",
-        "title": "Joe Colombo inspired Smoke Glasses Set of 2 | Vintage glass",
+        "itemId": "v1|235420317232|0",
+        "title": "Set of 2 Double Wall Insulated Glass Rocks Whiskey Old Fashioned Glass 10oz",
         "leafCategoryIds": [
             "20696"
         ],
@@ -1140,111 +1397,23 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/FZcAAOSwTP1mFurM/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/9QYAAOSw8ARlwn0s/s-l225.jpg"
         },
         "price": {
-            "value": "40.00",
+            "value": "17.99",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235515677999%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235420317232%7C0",
         "seller": {
-            "username": "sydzei420",
-            "feedbackPercentage": "100.0",
-            "feedbackScore": 16
+            "username": "valuebuy909",
+            "feedbackPercentage": "98.4",
+            "feedbackScore": 39772
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/FZcAAOSwTP1mFurM/s-l1600.jpg"
-            }
-        ],
-        "shippingOptions": [
-            {
-                "shippingCostType": "CALCULATED",
-                "shippingCost": {
-                    "value": "15.00",
-                    "currency": "USD"
-                }
-            }
-        ],
-        "buyingOptions": [
-            "FIXED_PRICE",
-            "BEST_OFFER"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/235515677999?hash=item36d5d40d2f:g:FZcAAOSwTP1mFurM&amdata=enc%3AAQAJAAAA4O0A1iJVEMTrjaYyQRYmCVvSCjS6LlmszWWnf8%2Fleqh0slz0mHzPcIxHsxsk25lYZeibO4BlybR3sSLCfgkuBaBl0GGlTLTBfbT5DdGm6kfeSIMFIsSrXlQZ5RKT7Ce8Pdd%2FZ0K%2BAQS653cdg02pkJ1i%2FGAAD4c%2BvKj0SNIL30i50Eklj%2BavwltG6QGstONPFCSiOAHTiDqsjgcYiqrh4Ut7R5pD7YwvLmAcZ4VCpRAc6RmQNQxYOZfvwk5T3HEOXA4si9dNK0oTgZY2cEM10XXWI6m3lExymkspKsOyyWYc",
-        "itemLocation": {
-            "country": "LT"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/dxYAAOSwhXZmLNOm/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/c8gAAOSw8xFmFurO/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/RPkAAOSwTJhmFurN/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/K3sAAOSwPM1mFurN/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/8poAAOSwbbVmLNOj/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qTkAAOSwWLhmLNOr/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/2CsAAOSwIkdmFurO/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "235515677999",
-        "availableCoupons": false,
-        "itemCreationDate": "2024-04-10T19:43:55.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|226159838679|0",
-        "title": "Better Homes & Gardens Hollis Drinking Glasses, 14.4 oz, Set of 8",
-        "leafCategoryIds": [
-            "20696"
-        ],
-        "categories": [
-            {
-                "categoryId": "20696",
-                "categoryName": "Glassware & Drinkware"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "20625",
-                "categoryName": "Kitchen, Dining & Bar"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/fncAAOSw-uJmUAf3/s-l225.jpg"
-        },
-        "price": {
-            "value": "14.96",
-            "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226159838679%7C0",
-        "seller": {
-            "username": "mynew9s",
-            "feedbackPercentage": "95.0",
-            "feedbackScore": 54
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/fncAAOSw-uJmUAf3/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/9QYAAOSw8ARlwn0s/s-l1200.jpg"
             }
         ],
         "shippingOptions": [
@@ -1257,126 +1426,29 @@
             }
         ],
         "buyingOptions": [
-            "FIXED_PRICE",
-            "BEST_OFFER"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/226159838679?hash=item34a82d45d7:g:fncAAOSw-uJmUAf3&amdata=enc%3AAQAJAAAA4Do3IKKnpD8DQ5%2FaPgA44cwaaBzOPnWqBhli7QA%2BVDZdS90sdMI%2B7RkCMjYlChX46ho2FioCx%2FaGAC4BuuT%2FxmwwJip9X8nMBZcTh9tpXmn589IKpZio5hfBuGd%2B7eIryKBM7jNZXEor%2F8SmKDOEIG%2Fv0Eu0JQiftn83CgqDICrRyCVFkCRL35aRcdh8AI6RPDpEHnWhxSXsU3FqNqsjkFr4GCsjVqlZY38r1SXy38CqFyS2wufCj%2FOcPvyJy7f7tAEJqc3z3WztPL0d5D22WARqk1WeDm9TZCpiaeCBRlPL",
-        "itemLocation": {
-            "postalCode": "917**",
-            "country": "US"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/J3AAAOSwbQVmUAf3/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/VikAAOSwGLdmUAf3/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/t1gAAOSwOFhmUAf2/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "226159838679",
-        "availableCoupons": false,
-        "itemCreationDate": "2024-05-24T03:22:33.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|305581324439|0",
-        "title": "Libbey Box Set of 4 Claret Stemmed Beverage Glass Glasses 16oz Iced Tea",
-        "leafCategoryIds": [
-            "20696"
-        ],
-        "categories": [
-            {
-                "categoryId": "20696",
-                "categoryName": "Glassware & Drinkware"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "20625",
-                "categoryName": "Kitchen, Dining & Bar"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/LMMAAOSwMZNlraZb/s-l225.jpg"
-        },
-        "price": {
-            "value": "12.96",
-            "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C305581324439%7C0",
-        "seller": {
-            "username": "brokenspoke-27",
-            "feedbackPercentage": "99.9",
-            "feedbackScore": 14825
-        },
-        "condition": "Used",
-        "conditionId": "3000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/LMMAAOSwMZNlraZb/s-l1600.jpg"
-            }
-        ],
-        "pickupOptions": [
-            {
-                "pickupLocationType": "ARRANGED_LOCATION"
-            }
-        ],
-        "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/305581324439?hash=item472610f897:g:LMMAAOSwMZNlraZb",
+        "itemWebUrl": "https://www.ebay.com/itm/235420317232?hash=item36d024f630:g:9QYAAOSw8ARlwn0s",
         "itemLocation": {
-            "postalCode": "270**",
+            "postalCode": "928**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/BB0AAOSwNMdlraZc/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/kYkAAOSwlxplraZd/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MQQAAOSw80NlraZf/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/iGUAAOSwUTFlraZg/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qFEAAOSw1h5lraZg/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/BsgAAOSwhzNlraZh/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/8VkAAOSwuexlraZi/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/sewAAOSwNrJlraZj/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/iB4AAOSwtUNlraZk/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/yHMAAOSwXP5lwn0s/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "305581324439",
+        "legacyItemId": "235420317232",
         "availableCoupons": false,
-        "itemCreationDate": "2024-05-23T11:16:10.000Z",
-        "topRatedBuyingExperience": true,
+        "itemCreationDate": "2024-02-06T18:42:07.000Z",
+        "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|355799925358|0",
-        "title": "4-Piece Glass Set Made of high-quality glass",
+        "itemId": "v1|166831568309|0",
+        "title": "Glass Cups with Lids and Straws - 16Oz Iced Coffee Cup 4Pcs Set - Glass Tumbler ",
         "leafCategoryIds": [
             "20696"
         ],
@@ -1395,15 +1467,15 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/xgYAAOSwNftmcABD/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/9FsAAOSwGLFmcrJr/s-l225.jpg"
         },
         "price": {
-            "value": "16.87",
+            "value": "33.56",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C355799925358%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C166831568309%7C0",
         "seller": {
-            "username": "beckkymart",
+            "username": "searamsa-78",
             "feedbackPercentage": "100.0",
             "feedbackScore": 12
         },
@@ -1411,7 +1483,7 @@
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/xgYAAOSwNftmcABD/s-l1200.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/9FsAAOSwGLFmcrJr/s-l1200.jpg"
             }
         ],
         "shippingOptions": [
@@ -1426,36 +1498,58 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/355799925358?hash=item52d754026e:g:xgYAAOSwNftmcABD",
+        "epid": "21050843642",
+        "itemWebUrl": "https://www.ebay.com/itm/166831568309?hash=item26d7efb5b5:g:9FsAAOSwGLFmcrJr",
         "itemLocation": {
-            "postalCode": "917**",
+            "postalCode": "802**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3MYAAOSwbVlmcABD/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/dYkAAOSw5CBmcrJs/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/g7IAAOSwgTJmcABE/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Y-gAAOSwpDhmcrJt/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/fvwAAOSw3dBmcABD/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6kIAAOSwumpmcrJu/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/nbQAAOSw-TNmcABE/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/BFkAAOSwEO5mcrJv/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/a-kAAOSwFnxmcrJx/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/-QcAAOSwCj9mcrJy/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/9xwAAOSwLehmcrJz/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ankAAOSwDqhmcrJ0/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/gWcAAOSwDYFmcrJ1/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/glUAAOSwoThmcrJ2/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/9IMAAOSwGLFmcrJ4/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "355799925358",
+        "legacyItemId": "166831568309",
         "availableCoupons": false,
-        "itemCreationDate": "2024-06-17T09:22:13.000Z",
+        "itemCreationDate": "2024-06-19T10:27:06.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|354762507593|0",
-        "title": "Set of 6 - 5.5 oz Glass Brandy Spirit Snifters (1 Case of Glasses) - Overstock",
+        "itemId": "v1|383970153961|0",
+        "title": "Heavy Base Rocks Cocktail Glasses, Drinking glasses 10 oz, Set of 12",
         "leafCategoryIds": [
             "20696"
         ],
@@ -1474,23 +1568,23 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ejwAAOSwSYFh02wo/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/8fwAAOSwOr9fE~mY/s-l225.jpg"
         },
         "price": {
-            "value": "15.95",
+            "value": "36.90",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C354762507593%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C383970153961%7C0",
         "seller": {
-            "username": "drinkingglasses",
-            "feedbackPercentage": "94.7",
-            "feedbackScore": 88
+            "username": "alikilma-0",
+            "feedbackPercentage": "100.0",
+            "feedbackScore": 206
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/ejwAAOSwSYFh02wo/s-l960.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/8fwAAOSwOr9fE~mY/s-l960.jpg"
             }
         ],
         "shippingOptions": [
@@ -1505,33 +1599,22 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/354762507593?hash=item52997e4549:g:ejwAAOSwSYFh02wo&amdata=enc%3AAQAJAAAA4G32kgBYCBgK1GnvQol270CM%2FYoD4KFJSkTEYNM39sByM4sVhBx77zMSfWNPLPLRM%2BTK05xDph0aOER%2F5KBVN23xqpxXP%2FsshDg%2Frgq7GvTasJ9E2GIFGkyo%2BZSstZWhfon7C8%2BxyJLy9jSJTLgTxw%2FaKQA81NRlxR6OcNB%2FfFU6GZda6tYzRFaJqsxJyf8pju317sTTN5W%2Bu3zLyJqYtFhq5KVJ8jO3fPJ0N2VJedl54l8bLXsWRdjYHacjKTHOb9gNu9xL64XFjfLI0qwIe1ecUs1ndGIhraG8LEI%2BRXll",
+        "itemWebUrl": "https://www.ebay.com/itm/383970153961?hash=item59666795e9:g:8fwAAOSwOr9fE~mY&amdata=enc%3AAQAJAAAA4PgplSUDEN%2BX6%2FyG6Le%2BQNv98DAlyyWte6%2FPxVZf5hz1VV8q6j7M6tYr6Yn4VB0eHBwP5aitp%2F7Q4gOfiE4RegYxajAGhTyFEvEln6QDpKyn7eKogfSgIVhBxxomQgeWmI0r%2FupqVdwwqw9w09a49n%2B42OOtbJ24OVhl6Fh1XveALZKn8yPZTJ6oWFtWE3Nc8EIvdOiMgXazW8gDe0Rm5zN3MqHU537e53UxQ%2Bi5zPiTzVNqOVRoPTsCg5SSl%2B9H7ysSM1fRkcc6eMADAaH%2BsVW7VXrObiyQctncEuli0vQz",
         "itemLocation": {
-            "postalCode": "124**",
+            "postalCode": "950**",
             "country": "US"
         },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/REQAAOSwLalh02uf/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/7wsAAOSwwORh02vB/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/GAgAAOSweOhh02vc/s-l225.jpg"
-            }
-        ],
         "adultOnly": false,
-        "legacyItemId": "354762507593",
+        "legacyItemId": "383970153961",
         "availableCoupons": false,
-        "itemCreationDate": "2023-05-04T21:51:46.000Z",
+        "itemCreationDate": "2021-02-21T10:26:40.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|145218222130|0",
-        "title": "Amici Home Aqua Rim Hiball Glass | Set of 6 | 16 Ounce",
+        "itemId": "v1|225670964967|0",
+        "title": "Whisky Glass Set of 2 Bourbon Snifter Tasting Twin Gift Crystal Dishwasher Safe",
         "leafCategoryIds": [
             "20696"
         ],
@@ -1550,35 +1633,23 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/UjAAAOSw84RkyU1b/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/9CAAAOSwebNldV43/s-l225.jpg"
         },
         "price": {
-            "value": "27.59",
+            "value": "36.99",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C145218222130%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C225670964967%7C0",
         "seller": {
-            "username": "theprunedanish",
-            "feedbackPercentage": "99.1",
-            "feedbackScore": 339105
-        },
-        "marketingPrice": {
-            "originalPrice": {
-                "value": "69.99",
-                "currency": "USD"
-            },
-            "discountPercentage": "61",
-            "discountAmount": {
-                "value": "42.40",
-                "currency": "USD"
-            },
-            "priceTreatment": "LIST_PRICE"
+            "username": "seww-43",
+            "feedbackPercentage": "100.0",
+            "feedbackScore": 142
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/UjAAAOSw84RkyU1b/s-l500.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/9CAAAOSwebNldV43/s-l1600.jpg"
             }
         ],
         "shippingOptions": [
@@ -1591,36 +1662,45 @@
             }
         ],
         "buyingOptions": [
-            "FIXED_PRICE"
+            "FIXED_PRICE",
+            "BEST_OFFER"
         ],
-        "epid": "21062043726",
-        "itemWebUrl": "https://www.ebay.com/itm/145218222130?hash=item21cfae3832:g:UjAAAOSw84RkyU1b&amdata=enc%3AAQAJAAAA4BNVfPbCT0dSeU6VJBn9ksZ6JQiXTfQ4w4ZMy8quR5uidnyfpYPZWlfNRTUPHB2veeZhWpFSr0tH4UGtKc5msGG0XpOpBSGwrHrC%2BNTUNqK44%2F5NNcoeW0j87lcdCF8JdIT%2BXKWN8AQYKqPQh2DeRTX5vBx6aYCOIe3TwLK1lD7ivNTxMqNeSyaHDHYeXurTnMaH5HMM9e6EW8j%2BVpiCQzJBIGxi6N7OnRk9x7CpmTfuyz7IekcHHVrufMDeFJzxCuKeb44u4sT9S8kmnlc1QMXISTX0vcOZDHWZb0q2xPMI",
+        "itemWebUrl": "https://www.ebay.com/itm/225670964967?hash=item348b09a6e7:g:9CAAAOSwebNldV43&amdata=enc%3AAQAJAAAA4FZmKCS9vrMdfJXqnDa4M%2BKYBMwmGokWrJh5uU4sC8iSc4vh6ldAopPpqs%2BnKbTPlv9zOJv0BXqkA2nx1%2BrEcGwxYnklriJh2%2BIWbsJeXAYcnIT%2FWqAMz%2BLuxlgLvztBqX%2BTpfyYM1WnLgCji5W5tS1v0jsgb8dA8CWDh9EPtY30MB9pxXyav2iltdq2qrffLmu5UrKKxsOgKgIlHshktcmhkwOMDCvSbcVvqB4Xvk8W8pc8x6oeg6W96HROQhZiUmUOqrcBlBiBsqVgqIUeJl%2BUzkpvAeSNULFVdoC4txGR",
         "itemLocation": {
-            "postalCode": "112**",
+            "postalCode": "330**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/J4gAAOSwLFRkyU1f/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/E38AAOSwyrpksQ6y/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/4BYAAOSwA1FkyU1g/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/pzgAAOSwsxdksQ6y/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/EeoAAOSwVexkyU1h/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/hc4AAOSwi~dksQ6z/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/1mgAAOSw~jRkyU1j/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/hg0AAOSwhUlksQ6y/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rrsAAOSwx25kyU1j/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/4RwAAOSwp4xksQ6y/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/~XgAAOSwwDhksQ6z/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3W0AAOSwdP9ksQ6z/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rmUAAOSw5WBksQ6z/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "145218222130",
+        "legacyItemId": "225670964967",
         "availableCoupons": false,
-        "itemCreationDate": "2023-07-31T13:19:04.000Z",
-        "topRatedBuyingExperience": true,
+        "itemCreationDate": "2023-07-14T09:02:09.000Z",
+        "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     }

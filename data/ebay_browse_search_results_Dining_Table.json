@@ -64,7 +64,7 @@
             "FIXED_PRICE",
             "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/226081836107?hash=item34a3870c4b:g:uJwAAOSwYP1mE2V6&amdata=enc%3AAQAJAAAA4KrVxTs%2FRqDqZk4hqOzarL%2Fo90sNKdFlhoCQPYYALvN3R80sPDlzmNwb4EcLfECnjo%2BPWj%2F5pxt60C6SyaqX3SWkflGxdN7cZuqeNCpLJQWx6eXresL2lzCymoCUWIjRrPGuo1RgWFVLsLKOnuhYVxQVdVzv0aLNrXx5kz6gQijtHltJH98L1lxZfPTO9qaRcu%2BVZRB5KbcubDEqYBJrD%2BVJjVcykk7xaw%2F18WAR8lmpYSzWpHaCHkxJ6gcfr0rlFxBueSuoevpAPbCZDxJ7OI9CEjzRHdBmrvUF9VE5TQDS",
+        "itemWebUrl": "https://www.ebay.com/itm/226081836107?hash=item34a3870c4b:g:uJwAAOSwYP1mE2V6&amdata=enc%3AAQAJAAAA4KrVxTs%2FRqDqZk4hqOzarL%2Fo90sNKdFlhoCQPYYALvN3R80sPDlzmNwb4EcLfECnjo%2BPWj%2F5pxt60C6SyaqX3SWkflGxdN7cZuqeNCpLJQWx6eXresL2lzCymoCUWIjRrEwQQLOFlBcU0Y0v8GBgQXjcva%2BJhDvXayK1TdZUSREjlNkYp0l0riXjTc8WrqZy0KUz5ZYc4PIYBtw%2BLjbD0zTJFmBwqdKkepCeEyLcuf%2F8LvLt0pSJeM4zGbe8IcuLuZFJ8Ae8g0kamaskssAXqIBE1o5Ey1lT%2Fc9NE299Pxhk",
         "itemLocation": {
             "country": "US"
         },
@@ -103,215 +103,7 @@
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|395082102996|663664746309",
-        "title": "WISFOR Kitchen Dining Table Rectangular Natural Marble Table w Metal Frame 30\" H",
-        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=395082102996",
-        "leafCategoryIds": [
-            "38204",
-            "107578"
-        ],
-        "categories": [
-            {
-                "categoryId": "38204",
-                "categoryName": "Tables"
-            },
-            {
-                "categoryId": "107578",
-                "categoryName": "Dining Sets"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "3197",
-                "categoryName": "Furniture"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/uYEAAOSwDQFlhPZC/s-l225.jpg"
-        },
-        "price": {
-            "value": "159.92",
-            "currency": "USD"
-        },
-        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C395082102996%7C663664746309",
-        "seller": {
-            "username": "wisoffer",
-            "feedbackPercentage": "98.0",
-            "feedbackScore": 2195
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/uYEAAOSwDQFlhPZC/s-l1200.jpg"
-            }
-        ],
-        "shippingOptions": [
-            {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "0.00",
-                    "currency": "USD"
-                }
-            }
-        ],
-        "buyingOptions": [
-            "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/395082102996?hash=item5bfcba78d4:g:uYEAAOSwDQFlhPZC&amdata=enc%3AAQAJAAAA4O0eLQP6eeeT3GNCTEhjXv3yfsvZLBwQy71e3KI7pLpXx%2FENeS%2FblWqo16vtCdftfxt6PuayTiIt7pqi65BVdno10FEyMnCY%2BWnLwtbN1snNQEggEguyHh%2F3KHS0%2BkVtXPfktdsZ6Q%2Bzfj9b86fiEwawm0zfqJl9s4qnuH3mpp0OUvhW4osbvjXCWctXT6C1%2BSNX4b5n2BChHTBZwu430y6WomnW8LQ10%2BaEwvS0cyw3cQcVnpbK2PgrPijCBbnVoxYjbWXTZO1RvCaWOjyu2baoVqzJ8TfTu4IlhIF2lLVD",
-        "itemLocation": {
-            "country": "US"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/42YAAOSw7wZlhPZD/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/SnEAAOSw5BZlhPZE/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6V4AAOSwQ3llhPZG/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qPUAAOSwPJhlhPZG/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/PcIAAOSwPE1lhPZH/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/gikAAOSwKYtlhPZI/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3uAAAOSwfX9lhPZK/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/IWQAAOSwmqJlhPZL/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/urcAAOSw2zVlhPZM/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/uP0AAOSwBbBlhPZN/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/QbEAAOSwqwNlhPZO/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "395082102996",
-        "availableCoupons": false,
-        "itemCreationDate": "2023-12-22T16:00:45.000Z",
-        "topRatedBuyingExperience": true,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|235460632114|0",
-        "title": "32\"Modern Square Dining Table, White Kitchen Table with Metal Pedestal Base",
-        "leafCategoryIds": [
-            "38204"
-        ],
-        "categories": [
-            {
-                "categoryId": "38204",
-                "categoryName": "Tables"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "3197",
-                "categoryName": "Furniture"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/v0cAAOSwyjNl5vWK/s-l225.jpg"
-        },
-        "price": {
-            "value": "109.99",
-            "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235460632114%7C0",
-        "seller": {
-            "username": "easyliving-us",
-            "feedbackPercentage": "99.2",
-            "feedbackScore": 14332
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/v0cAAOSwyjNl5vWK/s-l1600.jpg"
-            }
-        ],
-        "shippingOptions": [
-            {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "0.00",
-                    "currency": "USD"
-                }
-            }
-        ],
-        "buyingOptions": [
-            "FIXED_PRICE",
-            "BEST_OFFER"
-        ],
-        "epid": "14065867827",
-        "itemWebUrl": "https://www.ebay.com/itm/235460632114?hash=item36d28c1e32:g:v0cAAOSwyjNl5vWK&amdata=enc%3AAQAJAAAA4L2ZZ1GKjutGjVDuM5Mavw5Su3KTDVWfqTNLuTAzgFD3cbHK%2BRoGplTrWY7Rol%2F8EzDMwQygAsR%2BvQfmMRV%2FUuIY2rnmg%2F3Km7HJen1ApubT29IeRd5zWNIlWqapP%2BhxMDUkMinh%2BnCJeWMtHucyWtFa40PfPPqJ%2FENKCUR441mFEzOj%2BauPA0NxfLefWnrnDrS%2Bx6rBJuNm04j8CrAtOOmwq%2BBVBCrkmx7EJ7OjKI5uMeqXxKDT1r6baR0PGbpOlfjszU5KIIJLhhnTyM9%2F7mwA8MvgApxXe0ZrHPcvvjNI",
-        "itemLocation": {
-            "postalCode": "917**",
-            "country": "US"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/li4AAOSwbLZl5vWI/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/mpoAAOSwF-dl5vWQ/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/pH0AAOSwaeFl5vWH/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/zXoAAOSw2XJl5vWP/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/LjgAAOSwtYNl5vWG/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/DbAAAOSwjJtl5vWH/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rJkAAOSwNU1l5vWG/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/044AAOSwif9l5vWL/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/bOkAAOSwtmFl5vWG/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/mdQAAOSwcaNl5vWG/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/iKUAAOSw3-5l5vWG/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "235460632114",
-        "availableCoupons": false,
-        "itemCreationDate": "2024-03-05T10:48:43.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|355424132697|624594977961",
+        "itemId": "v1|355424132697|624594977960",
         "title": "5-Piece Dining Room Kitchen Table & 4 Upholstered Chairs Furniture Set for Home",
         "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=355424132697",
         "leafCategoryIds": [
@@ -335,11 +127,11 @@
             "imageUrl": "https://i.ebayimg.com/thumbs/images/g/UmYAAOSwhR9luNqR/s-l225.jpg"
         },
         "price": {
-            "value": "128.69",
+            "value": "142.55",
             "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C355424132697%7C624594977961",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C355424132697%7C624594977960",
         "seller": {
             "username": "gobetterdeal-inc",
             "feedbackPercentage": "94.9",
@@ -347,12 +139,12 @@
         },
         "marketingPrice": {
             "originalPrice": {
-                "value": "142.99",
+                "value": "158.39",
                 "currency": "USD"
             },
             "discountPercentage": "10",
             "discountAmount": {
-                "value": "14.30",
+                "value": "15.84",
                 "currency": "USD"
             },
             "priceTreatment": "MARKDOWN"
@@ -376,7 +168,7 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/355424132697?hash=item52c0edde59:g:UmYAAOSwhR9luNqR&amdata=enc%3AAQAJAAAA4N39xGN5pDOVdSQnE%2F4rKxsE7jzpofi9%2BIfhqolqoAtmIME3L2ICjkSqsLxMpkdcURpY07X--em23t5%2BPJOmCMfKkRMdX3%2BJ2ET5wKpGVFZ751LiYmnqA29Du9TKcIRYXhG0lz%2FtWevP9oPEhufnb%2FIRohG3xrqIFB70vVIofQWRTiO%2BUbxoCC0Be0V%2FrXZgJoWvcu9E1R3zRBE9Cko34NudG8WJE6IV84Vg9tGd6j%2FLaES%2BvDw6CxTJsp3gx8cF6AL%2FbU8rXcAGMmeZEurZXXpAUj8y8VZh4s8DRgeFeRw0",
+        "itemWebUrl": "https://www.ebay.com/itm/355424132697?hash=item52c0edde59:g:UmYAAOSwhR9luNqR&amdata=enc%3AAQAJAAAA4N39xGN5pDOVdSQnE%2F4rKxsE7jzpofi9%2BIfhqolqoAtmIME3L2ICjkSqsLxMpkdcURpY07X--em23t5%2BPJOmCMfKkRMdX3%2BJ2ET5wKpGVFZ751LiYmnqA29Du9TKcIRYXu10c18S%2BXjcU9XqLFT3wA7ogV2nCgHUqmK9FO1PHxJCpN71V846kRQtPRc1uwFHN49f5tci7lYpgW%2FOGYLli8ayUPfZXOKKVUNDdOkf0EYIQALXQBp%2Bjzi4IeKCR%2FB2NgbpGrdpDvmVZHGXtvO%2FglBCMeLm5CoDpDWxMbJTKd33",
         "itemLocation": {
             "country": "US"
         },
@@ -421,6 +213,306 @@
         "itemCreationDate": "2024-01-30T11:11:50.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|166006028438|465510374457",
+        "title": "5PCS Glass Dining Table Set Tempered w/4 Chairs Kitchen Room Seat Home Furniture",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=166006028438",
+        "leafCategoryIds": [
+            "107578"
+        ],
+        "categories": [
+            {
+                "categoryId": "107578",
+                "categoryName": "Dining Sets"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "3197",
+                "categoryName": "Furniture"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/sOwAAOSwsFlkJPv-/s-l225.jpg"
+        },
+        "price": {
+            "value": "135.99",
+            "currency": "USD"
+        },
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C166006028438%7C465510374457",
+        "seller": {
+            "username": "smarthomejmf",
+            "feedbackPercentage": "97.4",
+            "feedbackScore": 747
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/sOwAAOSwsFlkJPv-/s-l1600.jpg"
+            }
+        ],
+        "shippingOptions": [
+            {
+                "shippingCostType": "FIXED",
+                "shippingCost": {
+                    "value": "0.00",
+                    "currency": "USD"
+                }
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/166006028438?hash=item26a6baf896:g:sOwAAOSwsFlkJPv-&amdata=enc%3AAQAJAAAA4E4Kc15kxjFPdcRUs95J9FyykJpmkWKxmFp8wxF0KpWFucig2gN04ej7EHPUop3NFbwylUR%2F0CBu0bNxTnXYDOBkYT%2FsDbCITMP0sR3qD21mJFkbte%2BAl0Q2NUY1T2bUmPFaxJyZ2Qw4d4WrArXusP%2FwaCljmrHoIoqZ1609hUU3f3LdIdI1BtZ83DLplKmtNp5RJ9Oy%2FbhjOqrlCkW9VvmVwqR2On6aG83B3jNbN4OktyrJ%2BvuyR3htpLt8HEYQ4%2BGYxDoIkZ8LC3Jw5mkya6TmlfXfF0Dntc60GfBsVM%2Fn",
+        "itemLocation": {
+            "postalCode": "088**",
+            "country": "US"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/apAAAOSwuzlkJPxZ/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Pr4AAOSwBNNkJPyM/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/LQAAAOSwx6dkJPyc/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Y8gAAOSw~7JkJPzY/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/OpAAAOSwmiFkJP0s/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/FGAAAOSw4L1kJP1I/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/BL4AAOSwYGZkJP1c/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/F4kAAOSw~9ZkJP1m/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/IYkAAOSwV~NkJP1w/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "166006028438",
+        "availableCoupons": false,
+        "itemCreationDate": "2023-03-30T03:10:11.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|294370235547|0",
+        "title": "Kitchen Bar Table, Dining Table Set w/ Storage Shelf, 2 Bar Stools, Rustic Brown",
+        "leafCategoryIds": [
+            "107578"
+        ],
+        "categories": [
+            {
+                "categoryId": "107578",
+                "categoryName": "Dining Sets"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "3197",
+                "categoryName": "Furniture"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rOEAAOSwV0llu1xF/s-l225.jpg"
+        },
+        "price": {
+            "value": "113.99",
+            "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C294370235547%7C0",
+        "seller": {
+            "username": "mhcorp",
+            "feedbackPercentage": "97.2",
+            "feedbackScore": 115128
+        },
+        "marketingPrice": {
+            "originalPrice": {
+                "value": "437.99",
+                "currency": "USD"
+            },
+            "discountPercentage": "74",
+            "discountAmount": {
+                "value": "324.00",
+                "currency": "USD"
+            },
+            "priceTreatment": "LIST_PRICE"
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/rOEAAOSwV0llu1xF/s-l1600.jpg"
+            }
+        ],
+        "shippingOptions": [
+            {
+                "shippingCostType": "FIXED",
+                "shippingCost": {
+                    "value": "0.00",
+                    "currency": "USD"
+                }
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE"
+        ],
+        "epid": "28051974649",
+        "itemWebUrl": "https://www.ebay.com/itm/294370235547?hash=item4489d5549b:g:rOEAAOSwV0llu1xF&amdata=enc%3AAQAJAAAA4IUgz64d51vsmsZneDKspeFxygjxFVRwiDgEiVCwkk3SNtC4TmvUD%2F2dnQyhCn9OEadVNv5CPffIHG5jmBZtWPyp%2FwRAqmWN%2FVKgBA%2Fb9bQbbtYOw3jOG1QWw3O5aF0I5WNvQMe7sbmF6DJN2C5HLaAIgsarcWaxhbTujaV9Ad%2BQJvzOvsvVAsthArGr7132xlp1zOs679NF4y0RjCwW6477Zf1n7uVZ1twIB0c9%2B1RAqlMlmkWli7hJixSxzb4a%2Bbt1rmLnZPTJaPBFhjlzDjYXsQNAgzrDGBSlEhGOXw91",
+        "itemLocation": {
+            "postalCode": "970**",
+            "country": "US"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/bwcAAOSwveVlu1xG/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/EfQAAOSwyLZlu1xG/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/AxMAAOSwZfVlu1xG/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/keoAAOSwWcdlu1xF/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/7IUAAOSwJ0xlu1xG/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/-7MAAOSw43Blu1xF/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Lc8AAOSwr2Vlu1xF/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/JXoAAOSwIsxlu1xF/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MrwAAOSwI5Zlu1xF/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/H2IAAOSwzY9lu1xF/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "294370235547",
+        "availableCoupons": false,
+        "itemCreationDate": "2021-09-01T11:39:42.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|315407943800|0",
+        "title": "Bar Table, Narrow Long Bar Table, Kitchen Dining Table, High Pub Table",
+        "leafCategoryIds": [
+            "38204"
+        ],
+        "categories": [
+            {
+                "categoryId": "38204",
+                "categoryName": "Tables"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "3197",
+                "categoryName": "Furniture"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/AacAAOSwq5dmWvGY/s-l225.jpg"
+        },
+        "price": {
+            "value": "49.49",
+            "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C315407943800%7C0",
+        "seller": {
+            "username": "softok_54",
+            "feedbackPercentage": "98.1",
+            "feedbackScore": 258
+        },
+        "marketingPrice": {
+            "originalPrice": {
+                "value": "72.78",
+                "currency": "USD"
+            },
+            "discountPercentage": "32",
+            "discountAmount": {
+                "value": "23.29",
+                "currency": "USD"
+            },
+            "priceTreatment": "MARKDOWN"
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/AacAAOSwq5dmWvGY/s-l1600.jpg"
+            }
+        ],
+        "shippingOptions": [
+            {
+                "shippingCostType": "FIXED",
+                "shippingCost": {
+                    "value": "0.00",
+                    "currency": "USD"
+                }
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/315407943800?hash=item496fc74878:g:AacAAOSwq5dmWvGY",
+        "itemLocation": {
+            "postalCode": "917**",
+            "country": "US"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/kxwAAOSw931mWvGZ/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/CBYAAOSwFrBmWvGa/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/cOMAAOSwkxJmWvGb/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/4aEAAOSwmrJmWvGc/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/JmEAAOSwKEJmWvGd/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "315407943800",
+        "availableCoupons": false,
+        "itemCreationDate": "2024-06-01T10:02:06.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
     },
     {
@@ -567,7 +659,7 @@
         "seller": {
             "username": "yallstore",
             "feedbackPercentage": "97.5",
-            "feedbackScore": 1849288
+            "feedbackScore": 1849291
         },
         "condition": "New",
         "conditionId": "1000",
@@ -625,8 +717,8 @@
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|395477446347|0",
-        "title": "Thomas Moser Furniture Dining Table & 6 Chairs Auburn Maine Signed Free US S&H ",
+        "itemId": "v1|135111364657|0",
+        "title": "American Drew Dining Table + 6 Chairs",
         "leafCategoryIds": [
             "107578"
         ],
@@ -645,125 +737,89 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/sDIAAOSwHSVmcP5p/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/GHMAAOSwtElmLB8f/s-l225.jpg"
         },
         "price": {
-            "value": "10000.00",
+            "value": "900.00",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C395477446347%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C135111364657%7C0",
         "seller": {
-            "username": "vintagedistinction",
+            "username": "sjocelyn",
             "feedbackPercentage": "100.0",
-            "feedbackScore": 94
+            "feedbackScore": 200
         },
         "condition": "Used",
         "conditionId": "3000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/sDIAAOSwHSVmcP5p/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/GHMAAOSwtElmLB8f/s-l1600.jpg"
             }
         ],
-        "shippingOptions": [
+        "pickupOptions": [
             {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "0.00",
-                    "currency": "USD"
-                }
+                "pickupLocationType": "ARRANGED_LOCATION"
             }
         ],
         "buyingOptions": [
             "FIXED_PRICE",
             "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/395477446347?hash=item5c144aeecb:g:sDIAAOSwHSVmcP5p",
+        "itemWebUrl": "https://www.ebay.com/itm/135111364657?hash=item1f7543d031:g:GHMAAOSwtElmLB8f",
         "itemLocation": {
-            "postalCode": "921**",
+            "postalCode": "300**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/zUgAAOSw28RmcP6Y/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/f0oAAOSwKsJmLCLk/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Cw4AAOSwmbBmcP6Y/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qJUAAOSw2I1mLB9L/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/g74AAOSwyWlmcP6k/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MoYAAOSwNRtmLB9N/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/RSAAAOSwsmNmcP6k/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/efUAAOSw40tmLB9Q/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/h6EAAOSwp7lmcP6l/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/kSMAAOSwv3ZmLB9w/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/9aoAAOSw69xmcP6k/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/F7YAAOSwN7VmLB93/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/KWkAAOSwZMlmcP6z/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Ea8AAOSwlyhmLB96/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/KQIAAOSwjqNmcP6z/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/5yQAAOSwKCJmLB9r/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/jhEAAOSwo-FmcP60/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/BykAAOSwhXZmLB9m/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WBoAAOSwi0dmcP60/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Tc4AAOSwqL9mLB9o/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/e40AAOSwxZtmcP61/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6cEAAOSw4t5mLKPZ/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/0HIAAOSwQSlmcP7G/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/1tkAAOSwMPZmcP7I/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/c5UAAOSw9c5mcP7J/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/pIcAAOSwmehmcP7G/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6gwAAOSw5X9mcP7H/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/DS4AAOSwIhtmcP8B/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/85MAAOSwdidmcP77/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/jckAAOSwGUlmcP7a/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/9W4AAOSww6lmcP7a/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Q0cAAOSweTpmcP7a/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Hv4AAOSwx3xmcP70/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/-woAAOSwUm9mcP7w/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3scAAOSwkXBmLKPe/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "395477446347",
+        "legacyItemId": "135111364657",
         "availableCoupons": false,
-        "itemCreationDate": "2024-06-18T03:38:26.000Z",
+        "itemCreationDate": "2024-06-19T15:15:46.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|362455082265|0",
-        "title": "5 Piece Dining Set Glass Top Table and 4 Leather Chair for Kitchen Dining Room",
+        "itemId": "v1|395479945050|664193400367",
+        "title": "Bistro Table,Kitchen Dining Table Dining Table Dining Room Table Multifunction",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=395479945050",
         "leafCategoryIds": [
             "107578"
         ],
@@ -782,23 +838,24 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/CnIAAOSwqhBl1Wqw/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ki0AAOSw3dBmcoVK/s-l225.jpg"
         },
         "price": {
-            "value": "199.98",
+            "value": "106.99",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C362455082265%7C0",
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C395479945050%7C664193400367",
         "seller": {
-            "username": "hi-etech",
-            "feedbackPercentage": "98.0",
-            "feedbackScore": 1413452
+            "username": "ysogiuys632",
+            "feedbackPercentage": "100.0",
+            "feedbackScore": 1
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/CnIAAOSwqhBl1Wqw/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/ki0AAOSw3dBmcoVK/s-l1200.jpg"
             }
         ],
         "shippingOptions": [
@@ -813,96 +870,91 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/362455082265?hash=item546401a519:g:CnIAAOSwqhBl1Wqw",
+        "itemWebUrl": "https://www.ebay.com/itm/395479945050?hash=item5c14710f5a:g:ki0AAOSw3dBmcoVK",
         "itemLocation": {
-            "postalCode": "078**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/vM0AAOSwh9Rl1Wqx/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/zRcAAOSwaQZmcoVL/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/X04AAOSw~pll1Wqw/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/XO4AAOSwQ3VmcoVO/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Z8kAAOSw95Nl1Wqv/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ObAAAOSwADhmcoVQ/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/l7oAAOSwW05l1Wqw/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/GZ0AAOSwtdtmcoVU/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/y1YAAOSwcMJl1Wqw/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MbkAAOSwThhmcoVW/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/4eMAAOSwHjll1Wqx/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/htsAAOSwzfJmcoVY/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rP0AAOSwq89l1Wqx/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/-m0AAOSwDxFmcoVa/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/g58AAOSwv-Rl1Wqw/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3-EAAOSw5fxmcoVc/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/YnIAAOSwm7JmcoVd/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3f0AAOSw28RmcoVe/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/orMAAOSwyppmcoVf/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "362455082265",
+        "legacyItemId": "395479945050",
         "availableCoupons": false,
-        "itemCreationDate": "2018-10-11T02:18:38.000Z",
-        "topRatedBuyingExperience": true,
+        "itemCreationDate": "2024-06-19T07:14:41.000Z",
+        "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|256547691365|0",
-        "title": "Gorgeous Yellow Chrome Formica 1950's Mid Century Kitchen Dining Table ~ Amazing",
+        "itemId": "v1|145830159789|0",
+        "title": "3 Piece Wood Round Table Chair Set For Kitchen Bar Breakfast+ Wine Storage Rack",
         "leafCategoryIds": [
-            "261585",
             "38204"
         ],
         "categories": [
-            {
-                "categoryId": "261585",
-                "categoryName": "Tables"
-            },
             {
                 "categoryId": "38204",
                 "categoryName": "Tables"
             },
             {
-                "categoryId": "20081",
-                "categoryName": "Antiques"
-            },
-            {
-                "categoryId": "20091",
-                "categoryName": "Furniture"
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
             },
             {
                 "categoryId": "3197",
                 "categoryName": "Furniture"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WgQAAOSwGvlmci2D/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/YesAAOSwMqpmamTv/s-l225.jpg"
         },
         "price": {
-            "value": "550.00",
+            "value": "53.99",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256547691365%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C145830159789%7C0",
         "seller": {
-            "username": "ribusu",
-            "feedbackPercentage": "96.5",
-            "feedbackScore": 934
+            "username": "ornhammere",
+            "feedbackPercentage": "98.2",
+            "feedbackScore": 215
         },
-        "condition": "Used",
-        "conditionId": "3000",
+        "condition": "New",
+        "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/WgQAAOSwGvlmci2D/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/YesAAOSwMqpmamTv/s-l1600.jpg"
             }
         ],
         "shippingOptions": [
@@ -917,71 +969,132 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/256547691365?hash=item3bbb6f1b65:g:WgQAAOSwGvlmci2D",
+        "itemWebUrl": "https://www.ebay.com/itm/145830159789?hash=item21f427a5ad:g:YesAAOSwMqpmamTv",
         "itemLocation": {
-            "postalCode": "606**",
+            "postalCode": "917**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/znsAAOSwQnlmcikP/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/y1cAAOSwTBpmamTq/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/RCsAAOSw53NmcjNA/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3IkAAOSwMQVmamTq/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3U4AAOSw-tpmcjLw/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/FN8AAOSw931mamTq/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/t84AAOSwlM5mcipN/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/UMMAAOSwOk5mamTq/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/gUsAAOSw8WZmci1a/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Qx4AAOSwUGNmamTq/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/DcIAAOSwMAdmcibs/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/G7QAAOSwFt5mamTq/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/kh0AAOSw4QpmciLR/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/TuYAAOSw9DNmciQS/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/dhYAAOSw8yVmcieH/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/mfMAAOSwN0FmciZf/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/DKcAAOSw745mciLT/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/iaUAAOSwd~9mciL1/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/NqYAAOSwisxmciLT/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/F4cAAOSwJUVmciep/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/-BIAAOSw8kFmciLg/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/eV8AAOSwlRhmciL3/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/LfwAAOSwCExmcilX/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/OSUAAOSwxp1mcici/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/N6kAAOSwGvlmamTq/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "256547691365",
+        "legacyItemId": "145830159789",
         "availableCoupons": false,
-        "itemCreationDate": "2024-06-19T01:56:50.000Z",
+        "itemCreationDate": "2024-06-13T03:18:09.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|305623428162|0",
+        "title": "Wooden 48\" Dining Table for 4 People w/ Rubber Wood Legs Rectangular Table",
+        "leafCategoryIds": [
+            "107578"
+        ],
+        "categories": [
+            {
+                "categoryId": "107578",
+                "categoryName": "Dining Sets"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "3197",
+                "categoryName": "Furniture"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/lL0AAOSwv99mb5QR/s-l225.jpg"
+        },
+        "price": {
+            "value": "119.99",
+            "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C305623428162%7C0",
+        "seller": {
+            "username": "costwaylive",
+            "feedbackPercentage": "98.8",
+            "feedbackScore": 68312
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/lL0AAOSwv99mb5QR/s-l1600.jpg"
+            }
+        ],
+        "shippingOptions": [
+            {
+                "shippingCostType": "FIXED",
+                "shippingCost": {
+                    "value": "0.00",
+                    "currency": "USD"
+                }
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/305623428162?hash=item4728936c42:g:lL0AAOSwv99mb5QR",
+        "itemLocation": {
+            "postalCode": "923**",
+            "country": "US"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/1JkAAOSwHGNmb5QS/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/GRMAAOSwYfpmb5QS/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/EcQAAOSwUqxmb5QS/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/XcsAAOSwPeZmb5QS/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/79YAAOSwUzxmb5QS/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/H-8AAOSwIVFmb5QS/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/cLYAAOSwAZxmb5QR/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/NgsAAOSwIq5mb5QS/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/~6AAAOSwlFNmb5QS/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "305623428162",
+        "availableCoupons": false,
+        "itemCreationDate": "2024-06-17T01:35:34.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
@@ -1074,12 +1187,85 @@
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|315407943800|0",
-        "title": "Bar Table, Narrow Long Bar Table, Kitchen Dining Table, High Pub Table",
+        "itemId": "v1|285911703631|0",
+        "title": "marble dining table set for 6",
         "leafCategoryIds": [
+            "107578"
+        ],
+        "categories": [
+            {
+                "categoryId": "107578",
+                "categoryName": "Dining Sets"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "3197",
+                "categoryName": "Furniture"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/hBoAAOSwABBmadXL/s-l225.jpg"
+        },
+        "price": {
+            "value": "250.00",
+            "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C285911703631%7C0",
+        "seller": {
+            "username": "ricardramire-83",
+            "feedbackPercentage": "0.0",
+            "feedbackScore": 1
+        },
+        "condition": "Used",
+        "conditionId": "3000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/hBoAAOSwABBmadXL/s-l1600.jpg"
+            }
+        ],
+        "pickupOptions": [
+            {
+                "pickupLocationType": "ARRANGED_LOCATION"
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE",
+            "BEST_OFFER"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/285911703631?hash=item4291aa604f:g:hBoAAOSwABBmadXL&amdata=enc%3AAQAJAAAA4LmfoXL%2FCa%2FNMGrQ1POrOCc4BCQR0YB4C5fyTn5bt67oINSJfgfB9xh4si0ckDZmS%2FOKw3bAf07wi8tMzQayXINoOMGDo%2BGdSmqljZkB%2B1TGheX7MLB%2ByrgToGUBdmpX4qMGa0ufHq0KsMQ6SuGKO2EnAv6odHly5rhZdkLAZKph3liUYrv5Y%2FhWfQCweWWzkb21zNn2fS75C7SlShmgShAAgfQWIROgC0dv4xMv5JjGZu%2Fw4laFzj8nE4gVdmWQVy4tzNzT4c0CEvB%2B5s24DGUiSAqFtoz%2FMRhr9kbHik8q",
+        "itemLocation": {
+            "postalCode": "928**",
+            "country": "US"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/-6QAAOSwAehmadXL/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "285911703631",
+        "availableCoupons": false,
+        "itemCreationDate": "2024-06-15T17:39:53.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|385628346113|653435222541",
+        "title": "Stunning High Gloss 4-6 Seater Marble Dining Table Kitchen Dinette Table House",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=385628346113",
+        "leafCategoryIds": [
+            "107578",
             "38204"
         ],
         "categories": [
+            {
+                "categoryId": "107578",
+                "categoryName": "Dining Sets"
+            },
             {
                 "categoryId": "38204",
                 "categoryName": "Tables"
@@ -1094,107 +1280,24 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/AacAAOSwq5dmWvGY/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/XbsAAOSwzX9kaNMN/s-l225.jpg"
         },
         "price": {
-            "value": "72.78",
-            "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C315407943800%7C0",
-        "seller": {
-            "username": "softok_54",
-            "feedbackPercentage": "98.1",
-            "feedbackScore": 257
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/AacAAOSwq5dmWvGY/s-l1600.jpg"
-            }
-        ],
-        "shippingOptions": [
-            {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "0.00",
-                    "currency": "USD"
-                }
-            }
-        ],
-        "buyingOptions": [
-            "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/315407943800?hash=item496fc74878:g:AacAAOSwq5dmWvGY",
-        "itemLocation": {
-            "postalCode": "917**",
-            "country": "US"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/kxwAAOSw931mWvGZ/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/CBYAAOSwFrBmWvGa/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/cOMAAOSwkxJmWvGb/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/4aEAAOSwmrJmWvGc/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/JmEAAOSwKEJmWvGd/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "315407943800",
-        "availableCoupons": false,
-        "itemCreationDate": "2024-06-01T10:02:06.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|235589329290|535823075583",
-        "title": "3 Piece Wood Round Table & Chair Set For Dining Room Kitchen Bar Breakfast",
-        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=235589329290",
-        "leafCategoryIds": [
-            "107578"
-        ],
-        "categories": [
-            {
-                "categoryId": "107578",
-                "categoryName": "Dining Sets"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "3197",
-                "categoryName": "Furniture"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/LooAAOSwUd5mWtno/s-l225.jpg"
-        },
-        "price": {
-            "value": "56.69",
+            "value": "159.90",
             "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235589329290%7C535823075583",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C385628346113%7C653435222541",
         "seller": {
-            "username": "kama-spencer",
+            "username": "wisinhome",
             "feedbackPercentage": "98.8",
-            "feedbackScore": 509
+            "feedbackScore": 12360
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/LooAAOSwUd5mWtno/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/XbsAAOSwzX9kaNMN/s-l1200.jpg"
             }
         ],
         "shippingOptions": [
@@ -1209,45 +1312,69 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/235589329290?hash=item36da37e18a:g:LooAAOSwUd5mWtno",
+        "itemWebUrl": "https://www.ebay.com/itm/385628346113?hash=item59c93d9701:g:XbsAAOSwzX9kaNMN&amdata=enc%3AAQAJAAAA4BfZXuqAsG9qVSrZ9oUJbRF9%2B2JPWYA0HkUerhKvme6Vpf5wiWXf%2Fh893o4Kzp1nUX4OWLzk18BJ%2FPdxF97EMvx6XL50RyaBRgehq6aXFKtxkkCaolNPSQt7vlJ%2BBPk%2FNR58zF8%2BPPgm8oOlHBRHaKjS%2Bm0HTrdMXsckAJaR9yIF3Ect%2Fswu7mwBQW64oaUqd9TroQoYpE%2Bp4E8eJ2yzGgKyMA97gcsF67AxMT7BswbA4BswHc%2BbK6PyVqdTwX8uRqkdKTKXMzNLINOcesmEA3vMr6R%2F3DUsd5djGlQuyBY8",
         "itemLocation": {
-            "postalCode": "917**",
+            "postalCode": "088**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/GuQAAOSwWXNmWtno/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/DVIAAOSwNzNkaNMO/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/nosAAOSwMsNmWtno/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3uQAAOSw3WhkaNMP/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/1j0AAOSwgN1mWtno/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/fhUAAOSwq8tkaNMP/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/9-sAAOSw8exmWtno/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/AaQAAOSwbSJkaNMQ/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/dJgAAOSw~TJmWtno/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qtAAAOSwmk5kaNMR/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ir0AAOSwd6NmWtno/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/iFIAAOSw6jJkaNMS/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rrMAAOSwmABmWtno/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/NpoAAOSwgBtkaNMT/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/1s4AAOSwVB1kaNMU/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ly0AAOSwHcJkaNMV/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/EQkAAOSwlPlkaNMW/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/DpUAAOSwRrRkaNMX/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/UjcAAOSwog1kaNMY/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/LP8AAOSwawBkaNMY/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/mKAAAOSwFh9kaNMZ/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/OLYAAOSwObJkaNMa/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "235589329290",
+        "legacyItemId": "385628346113",
         "availableCoupons": false,
-        "itemCreationDate": "2024-06-01T08:21:02.000Z",
+        "itemCreationDate": "2023-05-21T15:04:16.000Z",
         "topRatedBuyingExperience": false,
-        "priorityListing": false,
+        "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|204810382049|0",
-        "title": "SOLID WOOD DINING TABLE - EXTENDABLE! HALF PRICE! $300",
+        "itemId": "v1|266850820542|0",
+        "title": "BEAUTIFUL Mahogany Chippendale Dining Table (6 Chairs )",
         "leafCategoryIds": [
             "107578"
         ],
@@ -1266,23 +1393,23 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/dH4AAOSwx8VmWKA7/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/7HMAAOSwlm5mZHqt/s-l225.jpg"
         },
         "price": {
-            "value": "300.00",
+            "value": "380.00",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C204810382049%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C266850820542%7C0",
         "seller": {
-            "username": "martavo-70",
-            "feedbackPercentage": "0.0",
-            "feedbackScore": 0
+            "username": "us.casablanca",
+            "feedbackPercentage": "100.0",
+            "feedbackScore": 73
         },
         "condition": "Used",
         "conditionId": "3000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/dH4AAOSwx8VmWKA7/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/7HMAAOSwlm5mZHqt/s-l1600.jpg"
             }
         ],
         "pickupOptions": [
@@ -1294,33 +1421,40 @@
             "FIXED_PRICE",
             "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/204810382049?hash=item2fafa66ae1:g:dH4AAOSwx8VmWKA7&amdata=enc%3AAQAJAAAA4OV6oTLJPwq%2FE5fhXpFkTENm5Yba%2FZZdrnbbRTVdhoNPNRRIpfPYRwy4xQANia8CnQ%2BeRWKInsEXAZiU%2BGkVYKe3S22pJ0VXX9FhaH8JM12zpPzibciRW8nf9kQC%2B4U5bwcStq%2F%2BIESnJJPKS9AgYqQnr%2FOTge8Pa7w2VQO%2BTtNOXxKDMq1mUucok3VXCy8YjhxqjKdp2sM8mBDaR7hdAhJ66x%2F9HMAJ6eDM29waRHQOw7q4WAJq0awgBMjhFR%2FTWg8xPPtOzV40wewcW0aGOhBcpKdU7a0Ny05vb7lrRsNk",
+        "itemWebUrl": "https://www.ebay.com/itm/266850820542?hash=item3e218c61be:g:7HMAAOSwlm5mZHqt&amdata=enc%3AAQAJAAAA4M4Rn%2Fe0GQbfNyGWBxD8ubABWTYYLsbLZFOZFoPH9ZfJju1yoCg5q82qF6ipGY5cqJamseZ5t8138ZapME%2F6zgW3%2FBoc9saL7bjNAoxivsCzXvnejeAY4AG6gl97xn3XRblEn5DsjeFaAKrBwmPd6Qk4AqaGRG51uLV8FJCzuWiGBn2DT5eb1tCNHDQgywtqc41XxoDdEzGhdAWr5O%2Fa4SrjVch1Z1yy0yteyjpq7Lufb9WYNDHQK7fMNhnhlL0bxoy6dDpTKRJWlSWj3sFc%2BOdhZmLRKnc74hPH4FNeMvIt",
         "itemLocation": {
-            "postalCode": "606**",
+            "postalCode": "334**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ZEkAAOSwwxFmWKA7/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/2DwAAOSwzbtmZHqu/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/2pIAAOSwL6NmWKA7/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/mN0AAOSwsttmZHqu/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/G~IAAOSw3epmWKA8/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/GTUAAOSw2vBmZHqv/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/wv8AAOSw8wpmZHqv/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/GdoAAOSw8tBmZHqw/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "204810382049",
+        "legacyItemId": "266850820542",
         "availableCoupons": false,
-        "itemCreationDate": "2024-05-30T15:54:49.000Z",
+        "itemCreationDate": "2024-06-08T15:43:48.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|226081818677|0",
-        "title": "Round Marble Glass Dining Table Silver Legs&4pcs Gray Faux Leather Dining Chairs",
+        "itemId": "v1|386556661471|653927776569",
+        "title": "Dining Set Bar Table and 2 Upholstered Height Chairs Wood Top for Small Kitchen",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=386556661471",
         "leafCategoryIds": [
             "107578"
         ],
@@ -1339,303 +1473,14 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/W1oAAOSw3pdmE2CI/s-l225.jpg"
-        },
-        "price": {
-            "value": "169.99",
-            "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226081818677%7C0",
-        "seller": {
-            "username": "rozhome-usmarket",
-            "feedbackPercentage": "98.8",
-            "feedbackScore": 190
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/W1oAAOSw3pdmE2CI/s-l1600.jpg"
-            }
-        ],
-        "shippingOptions": [
-            {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "0.00",
-                    "currency": "USD"
-                }
-            }
-        ],
-        "buyingOptions": [
-            "FIXED_PRICE",
-            "BEST_OFFER"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/226081818677?hash=item34a386c835:g:W1oAAOSw3pdmE2CI&amdata=enc%3AAQAJAAAA4Lltgjm4bzGzHHYXaFm%2FkUh11Zjy0WhuzRSgKlwZ32ItCwPvCvetgzAOFw5zrk6Eq01%2FuMlyWWr3krFu2tC2LdLTUydJka0yYLAAN22E6XlLXPaEYX0HPQ2hfF%2BVKAS5uUI32t2Pu%2FNdNSgtzqdZTVvmix1EXhb66hAuK81YQJfXhPMSX1pQK69GWGQhNGgZWSuFm26%2BXTVT5so7nPg%2B0%2BrcdEy3aJSURzDVbE3QLLBVaGukgDQMu5vxrShRKaO6WiC726NdFPy82%2BjJcqiLeOUqNKEhicYU4i32JaY2%2Bg%2Ba",
-        "itemLocation": {
-            "country": "US"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/N8EAAOSweGFl1~17/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/xMgAAOSwWj9l1~16/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/TFkAAOSwhmll1~18/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/XGcAAOSwtNBl1~16/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3CEAAOSwAhBl1~13/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/JSsAAOSw4cZmE2Cg/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MzYAAOSwxedmE2Ch/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/fhUAAOSwxLNmE2Cg/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/E0IAAOSwivhmE2Ch/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "226081818677",
-        "availableCoupons": false,
-        "itemCreationDate": "2024-04-08T03:12:57.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|285909013009|0",
-        "title": "Dining Table Set for 4, Wood Dine Table with 4 Velvet Chairs, Modern Kitchen Tab",
-        "leafCategoryIds": [
-            "107578"
-        ],
-        "categories": [
-            {
-                "categoryId": "107578",
-                "categoryName": "Dining Sets"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "3197",
-                "categoryName": "Furniture"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/dIkAAOSwGZFma9yx/s-l225.jpg"
-        },
-        "price": {
-            "value": "316.09",
-            "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C285909013009%7C0",
-        "seller": {
-            "username": "iltworld",
-            "feedbackPercentage": "97.7",
-            "feedbackScore": 504
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/dIkAAOSwGZFma9yx/s-l1600.jpg"
-            }
-        ],
-        "shippingOptions": [
-            {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "0.00",
-                    "currency": "USD"
-                }
-            }
-        ],
-        "buyingOptions": [
-            "FIXED_PRICE"
-        ],
-        "epid": "6033768000",
-        "itemWebUrl": "https://www.ebay.com/itm/285909013009?hash=item4291815211:g:dIkAAOSwGZFma9yx&amdata=enc%3AAQAJAAAA4LeOxVsEZxk9qZExhPPUd6FERPsZCZNKRHaBYiE0CU%2Fk%2Fnbroq0v%2BjfA49cqAPvt%2BfI80K6vjRqzSeiU%2FlMkNj%2FnZsf5HakA88%2BCObE0hmcGWdwBfpPZ9YqK6fajSPXgkcX%2Fv8kD1bmNN1s1zQ7yzqwdKZdPnP2fL6fPFqKVOV2C9eLdYz%2Bna1%2Bz8Ue69DURTWqdmygNLvGsx8cQswcUf8dz8RFGDnT%2BGA%2FjxPr4undJJ1DL%2B%2BqNzPE7%2F6xq83E2WkVQi4JVpo9%2BModhKfoaD1Y37IhIabRZQg1a4%2BXeNt2g",
-        "itemLocation": {
-            "postalCode": "802**",
-            "country": "US"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/0ekAAOSwJyhma9yz/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/r1IAAOSwR7Rma9y0/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/l24AAOSwQzJma9y1/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/SuEAAOSw6nJma9y3/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/iTkAAOSwQF5ma9y4/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/QcgAAOSwJsRma9y5/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/VvAAAOSwFvRma9y6/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6vMAAOSw15dma9y8/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/m08AAOSwinNma9y-/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/V6oAAOSwu9Rma9zA/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "285909013009",
-        "availableCoupons": false,
-        "itemCreationDate": "2024-06-14T06:01:38.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|166006028438|465510374457",
-        "title": "5PCS Glass Dining Table Set Tempered w/4 Chairs Kitchen Room Seat Home Furniture",
-        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=166006028438",
-        "leafCategoryIds": [
-            "107578"
-        ],
-        "categories": [
-            {
-                "categoryId": "107578",
-                "categoryName": "Dining Sets"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "3197",
-                "categoryName": "Furniture"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/sOwAAOSwsFlkJPv-/s-l225.jpg"
-        },
-        "price": {
-            "value": "135.99",
-            "currency": "USD"
-        },
-        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C166006028438%7C465510374457",
-        "seller": {
-            "username": "smarthomejmf",
-            "feedbackPercentage": "97.4",
-            "feedbackScore": 747
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/images/g/sOwAAOSwsFlkJPv-/s-l1600.jpg"
-            }
-        ],
-        "shippingOptions": [
-            {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "0.00",
-                    "currency": "USD"
-                }
-            }
-        ],
-        "buyingOptions": [
-            "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/166006028438?hash=item26a6baf896:g:sOwAAOSwsFlkJPv-&amdata=enc%3AAQAJAAAA4E4Kc15kxjFPdcRUs95J9FyykJpmkWKxmFp8wxF0KpWFucig2gN04ej7EHPUop3NFbwylUR%2F0CBu0bNxTnXYDOBkYT%2FsDbCITMP0sR3qD21mJFkbte%2BAl0Q2NUY1T2bUmLo5INVoI2m4bNQ7huwNqtFawnx7O18h0Naa64PTlcTNcG2ad2vb%2F9X20DlI3Ve7DwbgS8%2FNIJfYxSEGz1j%2BXZsXZb9ijQQuxKslKQyqzDBqAuToErq19MlCR5lbDtu30Nb9GKMgjcY8ZZY6QJD6xCKieaahLCKdx5oMLQrUgUC6",
-        "itemLocation": {
-            "postalCode": "088**",
-            "country": "US"
-        },
-        "additionalImages": [
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/apAAAOSwuzlkJPxZ/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Pr4AAOSwBNNkJPyM/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/LQAAAOSwx6dkJPyc/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Y8gAAOSw~7JkJPzY/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/OpAAAOSwmiFkJP0s/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/FGAAAOSw4L1kJP1I/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/BL4AAOSwYGZkJP1c/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/F4kAAOSw~9ZkJP1m/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/IYkAAOSwV~NkJP1w/s-l225.jpg"
-            }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "166006028438",
-        "availableCoupons": false,
-        "itemCreationDate": "2023-03-30T03:10:11.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US"
-    },
-    {
-        "itemId": "v1|386695121227|653983439684",
-        "title": "Dining Set Table and 2 Upholstered Bench Wood Top Breakfast Dinette for Kitchen",
-        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=386695121227",
-        "leafCategoryIds": [
-            "107578"
-        ],
-        "categories": [
-            {
-                "categoryId": "107578",
-                "categoryName": "Dining Sets"
-            },
-            {
-                "categoryId": "11700",
-                "categoryName": "Home & Garden"
-            },
-            {
-                "categoryId": "3197",
-                "categoryName": "Furniture"
-            }
-        ],
-        "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/tVAAAOSw9fdlrzOo/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/T~0AAOSw1l9llNQ6/s-l225.jpg"
         },
         "price": {
             "value": "129.99",
             "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C386695121227%7C653983439684",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C386556661471%7C653927776569",
         "seller": {
             "username": "chulun_suny",
             "feedbackPercentage": "98.0",
@@ -1657,7 +1502,7 @@
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/tVAAAOSw9fdlrzOo/s-l1200.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/T~0AAOSw1l9llNQ6/s-l1600.jpg"
             }
         ],
         "shippingOptions": [
@@ -1672,64 +1517,64 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/386695121227?hash=item5a08d3494b:g:tVAAAOSw9fdlrzOo",
+        "itemWebUrl": "https://www.ebay.com/itm/386556661471?hash=item5a00928edf:g:T~0AAOSw1l9llNQ6&amdata=enc%3AAQAJAAAA4P7841SPl%2BhRZgWd0RqUujPSt0bn2NHvCs160o4ZPzJ3lJzKI%2FWWmqSwOtpkJfoMx7Hj7o8c3qyZlS4HaIOCmcQPN3DChWcHH%2FCycrsrB0f7ERe6yOKkw19FkL022bxFnyq%2FTajZl7JEFq2G7q2qwt45kQ9ZbAxOQi%2FgkfGrken54RPsrcLFL4Gk6Ft8lqmqKK7IrKJELfkMV9yUb3f4N4%2BQIsEQKpo%2FEtNPzIYmVZwt05NaRIDICeWKgi3G3Qi7MRIafYp%2BzKzs%2FEM97lTaiPWCSbWepuVQbB90A6VVBssA",
         "itemLocation": {
             "postalCode": "301**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rusAAOSwM45lrzOa/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/q3MAAOSwAgZllNRA/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/QxkAAOSwSWxlrzOe/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/zbsAAOSwvYJllNRI/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6aYAAOSwkYtlrzOj/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/PosAAOSw-gZllNRO/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Y-4AAOSwjF5lrzPd/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/fG0AAOSwHlBllNRd/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/vF0AAOSwfytlrzPb/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/L54AAOSwfUxllNRv/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/JfYAAOSw7~tlrzPg/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/pg4AAOSwXolllNRt/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rlgAAOSwDvhlrzPq/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/mwEAAOSwisdllNRx/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Y70AAOSwODVlrzPf/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WicAAOSwRtxllNUv/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/eEsAAOSwkl5lrzPr/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6MwAAOSwpgZllNRb/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/2D4AAOSwbnhlrzRN/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/bLMAAOSwTzFllNRm/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3yYAAOSwJJFlrzPV/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/~ewAAOSwo1RllNRq/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "386695121227",
+        "legacyItemId": "386556661471",
         "availableCoupons": false,
-        "itemCreationDate": "2024-01-23T09:48:23.000Z",
+        "itemCreationDate": "2024-01-03T10:23:17.000Z",
         "topRatedBuyingExperience": false,
-        "priorityListing": false,
+        "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|186183424117|0",
-        "title": "Dining Table Set for 2 Small Kitchen Table Set Breakfast Table with 2 Stools",
+        "itemId": "v1|235460632114|0",
+        "title": "32\"Modern Square Dining Table, White Kitchen Table with Metal Pedestal Base",
         "leafCategoryIds": [
-            "107578"
+            "38204"
         ],
         "categories": [
             {
-                "categoryId": "107578",
-                "categoryName": "Dining Sets"
+                "categoryId": "38204",
+                "categoryName": "Tables"
             },
             {
                 "categoryId": "11700",
@@ -1741,23 +1586,23 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6ikAAOSwHZxlZDGn/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/v0cAAOSwyjNl5vWK/s-l225.jpg"
         },
         "price": {
-            "value": "89.99",
+            "value": "109.99",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C186183424117%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235460632114%7C0",
         "seller": {
-            "username": "bestchoicegadget",
-            "feedbackPercentage": "98.6",
-            "feedbackScore": 66594
+            "username": "easyliving-us",
+            "feedbackPercentage": "99.3",
+            "feedbackScore": 14338
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/6ikAAOSwHZxlZDGn/s-l640.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/v0cAAOSwyjNl5vWK/s-l1600.jpg"
             }
         ],
         "shippingOptions": [
@@ -1770,55 +1615,62 @@
             }
         ],
         "buyingOptions": [
-            "FIXED_PRICE"
+            "FIXED_PRICE",
+            "BEST_OFFER"
         ],
-        "epid": "14066979233",
-        "itemWebUrl": "https://www.ebay.com/itm/186183424117?hash=item2b59659875:g:6ikAAOSwHZxlZDGn",
+        "epid": "14065867827",
+        "itemWebUrl": "https://www.ebay.com/itm/235460632114?hash=item36d28c1e32:g:v0cAAOSwyjNl5vWK",
         "itemLocation": {
             "postalCode": "917**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/zqwAAOSw6o9lZDGp/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/li4AAOSwbLZl5vWI/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/s1EAAOSw5oBlZDGr/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/mpoAAOSwF-dl5vWQ/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/J0MAAOSwYU1lZDGt/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/pH0AAOSwaeFl5vWH/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/CCkAAOSwRjBlZDGv/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/zXoAAOSw2XJl5vWP/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/PJoAAOSws8plZDGw/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/LjgAAOSwtYNl5vWG/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/EhkAAOSwTGBlZDGy/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/DbAAAOSwjJtl5vWH/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/2T0AAOSw6-1lZDG1/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rJkAAOSwNU1l5vWG/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/J8EAAOSw3BtlZDG-/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/044AAOSwif9l5vWL/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/XhUAAOSwArRlZDHA/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/bOkAAOSwtmFl5vWG/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/mdQAAOSwcaNl5vWG/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/iKUAAOSw3-5l5vWG/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "186183424117",
+        "legacyItemId": "235460632114",
         "availableCoupons": false,
-        "itemCreationDate": "2023-11-27T06:07:52.000Z",
+        "itemCreationDate": "2024-03-05T10:48:43.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|315106000003|613709249750",
-        "title": "52\"/60\"/72\" Farmhouse Kitchen Solid Wood Dining Table with Metal Frame for 6-10",
-        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=315106000003",
+        "itemId": "v1|395082102996|663664746309",
+        "title": "WISFOR Kitchen Dining Table Rectangular Natural Marble Table w Metal Frame 30\" H",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=395082102996",
         "leafCategoryIds": [
             "38204",
             "107578"
@@ -1842,36 +1694,24 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/cZgAAOSwFrJl--Jw/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/uYEAAOSwDQFlhPZC/s-l225.jpg"
         },
         "price": {
-            "value": "228.39",
+            "value": "159.92",
             "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C315106000003%7C613709249750",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C395082102996%7C663664746309",
         "seller": {
-            "username": "huaxin72",
-            "feedbackPercentage": "91.7",
-            "feedbackScore": 558
-        },
-        "marketingPrice": {
-            "originalPrice": {
-                "value": "248.25",
-                "currency": "USD"
-            },
-            "discountPercentage": "8",
-            "discountAmount": {
-                "value": "19.86",
-                "currency": "USD"
-            },
-            "priceTreatment": "MARKDOWN"
+            "username": "wisoffer",
+            "feedbackPercentage": "98.0",
+            "feedbackScore": 2195
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/cZgAAOSwFrJl--Jw/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/uYEAAOSwDQFlhPZC/s-l1200.jpg"
             }
         ],
         "shippingOptions": [
@@ -1886,90 +1726,56 @@
         "buyingOptions": [
             "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/315106000003?hash=item495dc7fc83:g:cZgAAOSwFrJl--Jw&amdata=enc%3AAQAJAAAA4DzLVwMzGr85AL5oqVKq8%2FwX4WgPbmAJg7p9q5DHLT9gTUDOxUqFwNElwsh69TeDDJsWA5bu8jH8oCBrUXfgJeTib%2Fg82F047qLlfqN8zDbl%2B8%2BOIHRCrshpQwSwyK4a09eEMEgQ%2FZtvAjg%2FEzL8Kw5Yq7VTMbSpPQfVUihzUQmIvj3j5RJWkiKviD%2BMiEcN%2FHVpLlWxb6IkUulLw8jmyfX8FBiU69ZWwOctb8s5ymdD--%2BacqDHvAbmXj8v2WSJ%2Fou8IinEJLWsR00HOjQ8Lb911fiBdqQt4V0yohBB77oI",
+        "itemWebUrl": "https://www.ebay.com/itm/395082102996?hash=item5bfcba78d4:g:uYEAAOSwDQFlhPZC",
         "itemLocation": {
-            "postalCode": "146**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/xowAAOSwYSpl--Jy/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/42YAAOSw7wZlhPZD/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MugAAOSwBfZl--J1/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/SnEAAOSw5BZlhPZE/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/WZ8AAOSw~RFl--J3/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6V4AAOSwQ3llhPZG/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ahUAAOSw00Zl--J5/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qPUAAOSwPJhlhPZG/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/m~kAAOSwjSVl--J8/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/PcIAAOSwPE1lhPZH/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ILkAAOSwcmFl--J-/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/gikAAOSwKYtlhPZI/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/qnEAAOSwVNll--KA/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/3uAAAOSwfX9lhPZK/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/678AAOSw-xNl--KE/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/IWQAAOSwmqJlhPZL/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/1t4AAOSweJ1l--KH/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/urcAAOSw2zVlhPZM/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/KesAAOSwKrNl--KJ/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/uP0AAOSwBbBlhPZN/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/pg0AAOSwoZ5l--KM/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/DEMAAOSwPxdl--KP/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/QfEAAOSwOmpl--KS/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/agcAAOSwReRl--KU/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/LfEAAOSwPUdl--KX/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/EtAAAOSwr6Vl--Ka/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/FigAAOSwuR9l--Kd/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/8rgAAOSwbVxl--Kf/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Uu0AAOSwD5ll--Kh/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/c-4AAOSwTuxl--Kk/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/4BwAAOSwPBxl--Km/s-l225.jpg"
-            },
-            {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/iEsAAOSwkH5l--Ko/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/QbEAAOSwqwNlhPZO/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "315106000003",
+        "legacyItemId": "395082102996",
         "availableCoupons": false,
-        "itemCreationDate": "2024-01-19T03:07:40.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
+        "itemCreationDate": "2023-12-22T16:00:45.000Z",
+        "topRatedBuyingExperience": true,
+        "priorityListing": false,
         "listingMarketplaceId": "EBAY_US"
     },
     {
-        "itemId": "v1|294370235547|0",
-        "title": "Kitchen Bar Table, Dining Table Set w/ Storage Shelf, 2 Bar Stools, Rustic Brown",
+        "itemId": "v1|156227783903|0",
+        "title": "wood round kitchen table w/4 beautiful , detailed embroidery chairs",
         "leafCategoryIds": [
             "107578"
         ],
@@ -1988,91 +1794,169 @@
             }
         ],
         "image": {
-            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/rOEAAOSwV0llu1xF/s-l225.jpg"
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Ih0AAOSwMfRmRvIv/s-l225.jpg"
         },
         "price": {
-            "value": "113.99",
+            "value": "165.00",
             "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C294370235547%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156227783903%7C0",
         "seller": {
-            "username": "mhcorp",
-            "feedbackPercentage": "97.2",
-            "feedbackScore": 115122
+            "username": "joko-269",
+            "feedbackPercentage": "0.0",
+            "feedbackScore": 0
         },
-        "marketingPrice": {
-            "originalPrice": {
-                "value": "437.99",
-                "currency": "USD"
-            },
-            "discountPercentage": "74",
-            "discountAmount": {
-                "value": "324.00",
-                "currency": "USD"
-            },
-            "priceTreatment": "LIST_PRICE"
-        },
-        "condition": "New",
-        "conditionId": "1000",
+        "condition": "Used",
+        "conditionId": "3000",
         "thumbnailImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/images/g/rOEAAOSwV0llu1xF/s-l1600.jpg"
+                "imageUrl": "https://i.ebayimg.com/images/g/Ih0AAOSwMfRmRvIv/s-l1600.jpg"
             }
         ],
-        "shippingOptions": [
+        "pickupOptions": [
             {
-                "shippingCostType": "FIXED",
-                "shippingCost": {
-                    "value": "0.00",
-                    "currency": "USD"
-                }
+                "pickupLocationType": "ARRANGED_LOCATION"
             }
         ],
         "buyingOptions": [
-            "FIXED_PRICE"
+            "FIXED_PRICE",
+            "BEST_OFFER"
         ],
-        "epid": "28051974649",
-        "itemWebUrl": "https://www.ebay.com/itm/294370235547?hash=item4489d5549b:g:rOEAAOSwV0llu1xF&amdata=enc%3AAQAJAAAA4IUgz64d51vsmsZneDKspeFxygjxFVRwiDgEiVCwkk3SNtC4TmvUD%2F2dnQyhCn9OEadVNv5CPffIHG5jmBZtWPyp%2FwRAqmWN%2FVKgBA%2Fb9bQbbtYOw3jOG1QWw3O5aF0I5VAMz%2BGdsdF1lT7MEsXU5f5ZXZTQDi1o%2BzMDkKUwc9puEU961uHyzeOqmzX0Ybbf9%2FNANoXxy6BqRD%2BQv9gXncdCfppZUXg%2BhhWZwk1IeZ5xahDzjjJG3lT6o7KQjD3tNqG2eSvgU5Q8DjeabCImSVI8sdoQMNM1VHZOs5Xj05So",
+        "itemWebUrl": "https://www.ebay.com/itm/156227783903?hash=item245fe6ccdf:g:Ih0AAOSwMfRmRvIv&amdata=enc%3AAQAJAAAA4JmwKeZVHCj2YYzNXDDbIXpvoOoZllXyaFgJbkVKs8y2B%2FDlIpFCefuF7VR011Uxzp%2FG5ZNjn4rImt5e71lK4peHfEiGAmj1X%2FnORN8%2Bv4JnynYeCqWZ0AVcm73PNsUZBAWWzf9mz2e%2BLFtxk%2Brog2PSEHT6Bbs%2FLt3JhH0eOMJu9ZecGNWuwJjvfgNIR3JiTVgBeMFxJvpC7py7obQmWhOrW4XVP7%2BukfNGuGR60Gu5VNASF5EAKVyih%2FauYFPOpdewc%2BMFr7TVlrD6IITidL%2FgKQouUBd1uIHBpmlFw27A",
         "itemLocation": {
-            "postalCode": "970**",
+            "postalCode": "426**",
             "country": "US"
         },
         "additionalImages": [
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/bwcAAOSwveVlu1xG/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/TsIAAOSwjsZmRvIv/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/EfQAAOSwyLZlu1xG/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Db4AAOSws45mRvIv/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/AxMAAOSwZfVlu1xG/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/4BsAAOSw0JJmRvIv/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/keoAAOSwWcdlu1xF/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/ObAAAOSwNcdmRvIv/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/7IUAAOSwJ0xlu1xG/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/0eEAAOSwmBlmRvIw/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/-7MAAOSw43Blu1xF/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/~~YAAOSwGHNmRvIv/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Lc8AAOSwr2Vlu1xF/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/IGUAAOSwaghmRvIw/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/JXoAAOSwIsxlu1xF/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/GssAAOSwMwhmRvIw/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MrwAAOSwI5Zlu1xF/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/JCkAAOSw~f1mRvIw/s-l225.jpg"
             },
             {
-                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/H2IAAOSwzY9lu1xF/s-l225.jpg"
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/bOcAAOSwdYZmRvIw/s-l225.jpg"
             }
         ],
         "adultOnly": false,
-        "legacyItemId": "294370235547",
+        "legacyItemId": "156227783903",
         "availableCoupons": false,
-        "itemCreationDate": "2021-09-01T11:39:42.000Z",
+        "itemCreationDate": "2024-05-27T03:34:14.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US"
+    },
+    {
+        "itemId": "v1|375324982716|0",
+        "title": "Wood dining room set 6 chairs, china cabinet and table",
+        "leafCategoryIds": [
+            "107578"
+        ],
+        "categories": [
+            {
+                "categoryId": "107578",
+                "categoryName": "Dining Sets"
+            },
+            {
+                "categoryId": "11700",
+                "categoryName": "Home & Garden"
+            },
+            {
+                "categoryId": "3197",
+                "categoryName": "Furniture"
+            }
+        ],
+        "image": {
+            "imageUrl": "https://i.ebayimg.com/thumbs/images/g/BKoAAOSwME9l~H1j/s-l225.jpg"
+        },
+        "price": {
+            "value": "750.00",
+            "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C375324982716%7C0",
+        "seller": {
+            "username": "osabou_54",
+            "feedbackPercentage": "100.0",
+            "feedbackScore": 1
+        },
+        "condition": "Used",
+        "conditionId": "3000",
+        "thumbnailImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/BKoAAOSwME9l~H1j/s-l1600.jpg"
+            }
+        ],
+        "pickupOptions": [
+            {
+                "pickupLocationType": "ARRANGED_LOCATION"
+            }
+        ],
+        "buyingOptions": [
+            "FIXED_PRICE",
+            "BEST_OFFER"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/375324982716?hash=item57631cbdbc:g:BKoAAOSwME9l~H1j&amdata=enc%3AAQAJAAAA4FiGErh3vLyobq5otQt8AEytbA6GPS1CxzPnRVbVB1ryVg73aFtPlU2NejQ7J7lhZ5gnh69advp9nlPWvZ2mtXGVH41Bj%2BpR31d9HxD1tzH%2Fyt219YLD9ciePmo51GcpybIiSF1SWVvFO0WxXwLxYVpczhNMWknmFqDlfRGRSGm3PwO52herVdRLlOOnNt13gtjSnxt9OO3bqzWkuuYFNBuTJC5rmf0Echm5Gu1XSxJWFV1bzbPjXMn0Ju6y9PgwDJzqRcmVzv3Q7Ol5UahSTZ0%2BhtpUwIwLTPlCZHvjKlVo",
+        "itemLocation": {
+            "postalCode": "775**",
+            "country": "US"
+        },
+        "additionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MgMAAOSwaZdl~H1k/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/7isAAOSwoEpl~H1l/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/xb4AAOSwMkJl~H1m/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/MXYAAOSw0URl~H1o/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/FQgAAOSwsmJl~H1p/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/wsAAAOSwYutl~H1q/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/IEAAAOSw72dl~H1r/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/0M8AAOSwBA5l~H1t/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/S8wAAOSwGzxl~H1u/s-l225.jpg"
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/J3wAAOSwwe9l~H1v/s-l225.jpg"
+            }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "375324982716",
+        "availableCoupons": false,
+        "itemCreationDate": "2024-03-21T18:47:59.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US"
