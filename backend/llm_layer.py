@@ -87,10 +87,11 @@ def __gpt_response(prompt):
     
     return response.choices[0].message.content
 
+# Write this using langchain
 def gpt_response_similar(user_prompt, metadata):
     similar_prompt = f'''You are a chatbot assistant. A user is interacting with you and 
                         has asked you to show similar products using this prompt {user_prompt}. 
-                        Following is the details of the recomended products {metadata}. 
+                        Following are the details of the recomended products {metadata}. 
                         Use this information and generate a chat reposnse'''
 
 
