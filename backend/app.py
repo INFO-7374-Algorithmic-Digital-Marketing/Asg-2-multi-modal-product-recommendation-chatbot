@@ -17,14 +17,14 @@ async def search_similar(prompt: str, image: UploadFile = None, N=3):
             search_results = mdb.image_search(mdb.encode_text(prompt), N)
             metadata = [str(mdb.extract_fields_from_document(mdb.get_document_by_id(search_results[i]["_id"]))) for i in range(N)]
             response = llm_layer.gpt_response_similar(prompt, metadata)
-            return {"response": response}
+            return {"response": response, "metadata": metadata}   
         
     if image is not None:
         emb = mdb.encode_image_from_bytes(await image.read())
         search_results = mdb.image_search(emb)
         metadata = [str(mdb.extract_fields_from_document(mdb.get_document_by_id(search_results[i]["_id"]))) for i in range(N)]
         response = llm_layer.gpt_response_similar(prompt, metadata)
-        return {"response" : response}
+        return {"response" : response, "metadata": metadata}
 
 
         
