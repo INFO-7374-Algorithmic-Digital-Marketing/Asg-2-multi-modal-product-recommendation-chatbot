@@ -12,3 +12,6 @@ result = collection.delete_many({})
     }
   ]
 }
+
+## run the api
+uvicorn app:app --reload
