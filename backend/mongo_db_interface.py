@@ -41,6 +41,7 @@ def encode_image_from_bytes(image_data):
 
 def encode_text(text):
     encoding = model.encode(text)
+    # encoding = model.encode(text)
     return encoding
 
 def image_search(emb, n = 9, collection=collection):
