@@ -34,6 +34,11 @@ def encode_image(image_path):
     encoding = model.encode([image])
     return encoding[0]
 
+def encode_image_from_bytes(image_data):
+    image = Image.open(BytesIO(image_data))
+    encoding = model.encode([image])
+    return encoding[0]
+
 def encode_text(text):
     encoding = model.encode(text)
     return encoding

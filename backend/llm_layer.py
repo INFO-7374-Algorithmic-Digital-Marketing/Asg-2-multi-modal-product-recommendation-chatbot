@@ -94,7 +94,6 @@ def gpt_response_similar(user_prompt, metadata):
                         Following are the details of the recomended products {metadata}. 
                         Use this information and generate a chat reposnse'''
 
-
     return __gpt_response(similar_prompt)
 
 

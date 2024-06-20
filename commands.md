@@ -15,3 +15,6 @@ result = collection.delete_many({})
 
 ## run the api
 uvicorn app:app --reload
+
+## Kill pid at 8000
+kill $(lsof -t -i:8000)
