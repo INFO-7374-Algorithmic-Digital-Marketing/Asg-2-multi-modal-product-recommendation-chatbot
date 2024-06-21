@@ -18,12 +18,12 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-client = OpenAI()
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def normal_chat(prompt):
     logger.info(f"Normal chat detected. Responding with the same prompt.")
     # Later change this to a proper response
-    return prompt
+    return f"Thanks for saying {prompt}. I will reply you soon."
 
 def extract_n_category_prompt(prompt):
     logger.info(f"Extracting details from prompt: {prompt}")
