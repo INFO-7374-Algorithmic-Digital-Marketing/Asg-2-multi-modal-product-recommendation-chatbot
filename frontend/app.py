@@ -9,6 +9,15 @@ import logging
 from google.cloud import storage
 from dotenv import load_dotenv
 import hashlib
+import streamlit as st
+from streamlit_extras.colored_header import colored_header
+from streamlit_extras.add_vertical_space import add_vertical_space
+from frontend_utils import (
+    show_upload,
+    save_uploaded_file,
+    send_to_api,
+    display_results
+)
 
 # Load environment variables
 load_dotenv()
@@ -100,109 +109,107 @@ def save_uploaded_file(uploaded_file):
     
     return public_url
 
-# Streamlit app
-st.title("Chatbot with File Upload")
+def main():
+    st.set_page_config(page_title="DineDecor AI", layout="wide")
 
-# Initialize chat history
-if "messages" not in st.session_state:
-    st.session_state.messages = []
+    # Custom CSS
+    st.markdown("""
+        <style>
+        .stApp {
+            background-color: #1E1E1E;
+            color: #FFFFFF;
+        }
+        .stButton>button {
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 5px;
+        }
+        .stTextInput>div>div>input {
+            background-color: #2C2C2C;
+            color: white;
+        }
+        </style>
+        """, unsafe_allow_html=True)
 
-# Initialize file upload state
-if "file_url" not in st.session_state:
-    st.session_state.file_url = None
+    # Main header
+    colored_header(
+        label="DineDecor AI",
+        description="Your Personal Dining Room Design Assistant",
+        color_name="blue-70"
+    )
 
-# Initialize file hash dictionary
-if "file_hashes" not in st.session_state:
-    st.session_state.file_hashes = {}
+    add_vertical_space(2)
 
-# Initialize uploader visibility state
-if "uploader_visible" not in st.session_state:
-    st.session_state["uploader_visible"] = False
+    # Initialize session state
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
+    if "file_url" not in st.session_state:
+        st.session_state.file_url = None
+    if "file_hashes" not in st.session_state:
+        st.session_state.file_hashes = {}
+    if "uploader_visible" not in st.session_state:
+        st.session_state.uploader_visible = False
+    if "results" not in st.session_state:
+        st.session_state.results = []
 
-# Initialize results storage
-if "results" not in st.session_state:
-    st.session_state.results = []
+    # File upload option
+    with st.chat_message("system"):
+        cols = st.columns((3, 1, 1))
+        cols[0].write("Do you want to upload a file?")
+        cols[1].button("Yes", use_container_width=True, on_click=show_upload, args=[True])
+        cols[2].button("No", use_container_width=True, on_click=show_upload, args=[False])
 
-# Function to show/hide uploader
-def show_upload(state: bool):
-    st.session_state["uploader_visible"] = state
+    # File uploader functionality
+    if st.session_state["uploader_visible"]:
+        uploaded_file = st.file_uploader("Upload an image", type=["png", "jpg", "jpeg", "gif"])
+        if uploaded_file:
+            with st.spinner("Processing your file"):
+                new_file_url = save_uploaded_file(uploaded_file)
+                if new_file_url != st.session_state.file_url:
+                    st.session_state.file_url = new_file_url
+                    st.success(f"File uploaded: {uploaded_file.name}")
+                else:
+                    st.info(f"This image has been uploaded before. Using existing URL.")
+                st.write(f"Image URL: {st.session_state.file_url}")
 
-# File upload option
-with st.chat_message("system"):
-    cols = st.columns((3, 1, 1))
-    cols[0].write("Do you want to upload a file?")
-    cols[1].button("Yes", use_container_width=True, on_click=show_upload, args=[True])
-    cols[2].button("No", use_container_width=True, on_click=show_upload, args=[False])
+    # Display chat messages from history
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
 
-# File uploader functionality
-if st.session_state["uploader_visible"]:
-    uploaded_file = st.file_uploader("Upload an image", type=["png", "jpg", "jpeg", "gif"])
-    if uploaded_file:
-        with st.spinner("Processing your file"):
-            new_file_url = save_uploaded_file(uploaded_file)
-            if new_file_url != st.session_state.file_url:
-                st.session_state.file_url = new_file_url
-                st.success(f"File uploaded: {uploaded_file.name}")
+    # Display existing results
+    display_results()
+
+    # Accept user input
+    if prompt := st.chat_input("What is your question?"):
+        st.session_state.messages.append({"role": "user", "content": prompt})
+        with st.chat_message("user"):
+            st.markdown(prompt)
+        
+        with st.chat_message("assistant"):
+            response = send_to_api(prompt, st.session_state.file_url)
+            if isinstance(response, dict) and 'response' in response:
+                try:
+                    items = response['response']['response']
+                    new_results = []
+                    for item in items:
+                        item_dict = eval(item)  # Be cautious with eval, use only with trusted data
+                        new_results.append(item_dict)
+                    st.session_state.results.extend(new_results)
+                    
+                    display_results()
+                except Exception as e:
+                    st.write(response['response'])
             else:
-                st.info(f"This image has been uploaded before. Using existing URL.")
-            st.write(f"Image URL: {st.session_state.file_url}")
+                st.write(response)
 
-# Display chat messages from history on app rerun
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+        st.session_state.messages.append({"role": "assistant", "content": "I've provided the results based on your query. You can see them displayed above."})
+        st.session_state.file_url = None
 
-# Display existing results
-if st.session_state.results:
-    st.write("Previous Results:")
-    for item_dict in st.session_state.results:
-        st.subheader(item_dict['title'])
-        st.image(item_dict['thumbnailImages'][0]['imageUrl'], width=200)
-        st.write(f"Price: {item_dict['price']['value']} {item_dict['price']['currency']}")
-        st.write(f"Condition: {item_dict['condition']}")
-        st.write(f"Category: {item_dict['categories'][0]['categoryName']}")
-        st.write("---")
+    # Clear results button
+    if st.button("Clear Results"):
+        st.session_state.results = []
+        st.rerun()
 
-# Accept user input
-if prompt := st.chat_input("What is your question?"):
-    # Add user message to chat history
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    # Display user message in chat message container
-    with st.chat_message("user"):
-        st.markdown(prompt)
-    
-    # Generate and display assistant response
-    with st.chat_message("assistant"):
-        response = send_to_api(prompt, st.session_state.file_url)    
-        if isinstance(response, dict) and 'response' in response:
-            try:
-                items = response['response']['response']
-                new_results = []
-                for item in items:
-                    item_dict = eval(item)  # Be cautious with eval, use only with trusted data
-                    new_results.append(item_dict)
-                st.session_state.results.extend(new_results)
-                
-                st.write("Here are the results based on your query:")
-                for item_dict in st.session_state.results:
-                    st.subheader(item_dict['title'])
-                    st.image(item_dict['thumbnailImages'][0]['imageUrl'], width=200)
-                    st.write(f"Price: {item_dict['price']['value']} {item_dict['price']['currency']}")
-                    st.write(f"Condition: {item_dict['condition']}")
-                    st.write(f"Category: {item_dict['categories'][0]['categoryName']}")
-                    st.write("---")
-            except Exception as e:
-                st.write(response['response'])
-        else:
-            st.write(response)
-
-    # Add assistant response to chat history
-    st.session_state.messages.append({"role": "assistant", "content": "I've provided the results based on your query. You can see them displayed above."})
-
-    # Clear the file URL after use, but keep the hash
-    st.session_state.file_url = None
-
-# Add a button to clear results
-if st.button("Clear Results"):
-    st.session_state.results = []
-    st.rerun()
+if __name__ == "__main__":
+    main()

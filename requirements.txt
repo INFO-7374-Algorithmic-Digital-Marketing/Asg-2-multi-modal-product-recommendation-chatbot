@@ -11,3 +11,4 @@ sentence-transformers
 streamlit
 openai-pydantic
 google-cloud 
+streamlit-extras
