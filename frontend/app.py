@@ -51,7 +51,11 @@ def send_to_api(prompt, file_url=None):
     # Create the LLM instance
     llm = ChatOpenAI()
     # URL of the local FastAPI OpenAPI documentation
-    openapi_url = "http://127.0.0.1:8000/openapi.json"
+    # for local testing 
+    # openapi_url = "http://127.0.0.1:8000/openapi.json"
+
+    # once docker compose is up and running
+    openapi_url = "http://backend:8000/openapi.json"
     # Fetch the OpenAPI spec to ensure it's accessible
     def fetch_openapi_spec(url):
         response = requests.get(url)
@@ -61,7 +65,7 @@ def send_to_api(prompt, file_url=None):
     try:
         openapi_spec_json = fetch_openapi_spec(openapi_url)
         # Manually add the base URL to the OpenAPI spec
-        base_url = "http://127.0.0.1:8000"
+        base_url = "http://backend:8000"
         if "servers" not in openapi_spec_json:
             openapi_spec_json["servers"] = [{"url": base_url}]
         else:

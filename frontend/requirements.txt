@@ -15,3 +15,4 @@ langchain-openai
 #bson
 #pymongo
 #sentence-transformers
+openapi-pydantic

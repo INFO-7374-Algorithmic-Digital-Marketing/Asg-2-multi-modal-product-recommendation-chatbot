@@ -9,6 +9,6 @@ bson
 pymongo
 sentence-transformers
 streamlit
-openai-pydantic
+pydantic-openai
 google-cloud 
 streamlit-extras
