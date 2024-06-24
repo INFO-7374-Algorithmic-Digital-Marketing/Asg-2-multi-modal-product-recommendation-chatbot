@@ -43,11 +43,11 @@ def get_complementary(image_url, user_prompt):
                         Based on this image and the user's request: '{user_prompt}', suggest a complementary item that would enhance the scene. Be specific about the item's characteristics (like color, style, or material) and provide a category for the suggested item.
                         Generate a JSON output with the following fields: "item_details" and "category". 
                         The item_details field should contain the style, color, and material of the item.
-                        The category should describe the type of the suggested item.
+                        The category should describe the type of the suggested item should be of ["Center_Piece", "Glass_Set", "Dinner_Table", "Cutlery"]
                         Do not include the description of the item in the picture. Do not include the ```json ``` tag in the output.
 
                         Example Input: An image representing a modern living room with a gray sofa.
-                        Example Output: {{"item_details": "A blue velvet throw pillow with a geometric pattern", "category": "Home Decor"}}
+                        Example Output: {{"item_details": "A blue velvet throw pillow with a geometric pattern", "category": "Center_Piece"}}
                     """
                 },
                 {"type": "image_url", "image_url": {"url": image_url}},

@@ -82,7 +82,7 @@ def hybrid_search(emb, category_name, n=9, vector_penalty=1.0, full_text_penalty
                 "index": "vector_index",
                 "path": "embedding",
                 "queryVector": emb.tolist(),
-                "numCandidates": 100,
+                "numCandidates": 160,
                 "limit": 20
             }
         },
