@@ -6,11 +6,28 @@ result = collection.delete_many({})
   "fields": [
     {
       "numDimensions": 768,
-      "path": "plot_embedding",
+      "path": "embedding",
       "similarity": "cosine",
       "type": "vector"
     }
   ]
+}
+
+# Text Search Defination
+{
+  "mappings": {
+    "dynamic": true,
+    "fields": {
+      "categories": {
+        "fields": {
+          "categoryName": {
+            "type": "string"
+          }
+        },
+        "type": "document"
+      }
+    }
+  }
 }
 
 ## run the api

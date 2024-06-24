@@ -14,7 +14,7 @@ logger.info("Starting the FastAPI server now...")
 app = FastAPI()
 
 @app.post("/search")
-async def search(prompt: str, intent: Literal["show_similar", "show_complementary", "normal_chat"], category: Literal["Plates", "Wall_Art", "Dinner_Table", "Cutlery"], num_of_items: int, image_path: str = None):
+async def search(prompt: str, intent: Literal["show_similar", "show_complementary", "normal_chat"], category: Literal["Center_Piece", "Wall_Art", "Dinner_Table", "Cutlery"], num_of_items: int, image_path: str = None):
     logger.info(f"Received request with prompt: {prompt}, intent: {intent}, category: {category}, num_of_items: {num_of_items}, image_path: {image_path}")
     if intent == "normal_chat":
         response = llm_layer.normal_chat(prompt)
@@ -25,7 +25,9 @@ async def search(prompt: str, intent: Literal["show_similar", "show_complementar
         if not image_path:         
             logger.info(f"Image not provided")
             logger.info(f"Searching for similar images for the prompt: {prompt}")
-            search_results = mdb.image_search(mdb.encode_text(prompt), num_of_items)
+            # search_results = mdb.image_search(mdb.encode_text(prompt), num_of_items)
+            search_results = mdb.hybrid_search(mdb.encode_text(prompt), category, num_of_items) #Hybrid search
+            print(search_results)
             logger.info(f"Found {len(search_results)} search results")
             metadata = [str(mdb.extract_fields_from_document(mdb.get_document_by_id(search_results[i]["_id"]))) for i in range(num_of_items)]
             logger.info(f"Extracted metadata: {metadata}")
@@ -34,7 +36,9 @@ async def search(prompt: str, intent: Literal["show_similar", "show_complementar
             image = requests.get(image_path).content
             emb = mdb.encode_image_from_bytes(image)
             logger.info(f"Encoded image")
-            search_results = mdb.image_search(emb, num_of_items)
+            # search_results = mdb.image_search(emb, num_of_items)
+            search_results = mdb.hybrid_search(mdb.encode_text(prompt), category, num_of_items) #Hybrid search
+            print(search_results)
             logger.info(f"Found {len(search_results)} search results")
             metadata = [str(mdb.extract_fields_from_document(mdb.get_document_by_id(search_results[i]["_id"]))) for i in range(num_of_items)]
             logger.info(f"Extracted metadata: {metadata}")

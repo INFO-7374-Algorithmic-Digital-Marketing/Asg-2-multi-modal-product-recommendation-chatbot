@@ -13,7 +13,10 @@ from PIL import Image
 from io import BytesIO
 from dotenv import load_dotenv
 import os
+
+
 import base64
+
 
 load_dotenv()
 # Set up logging
