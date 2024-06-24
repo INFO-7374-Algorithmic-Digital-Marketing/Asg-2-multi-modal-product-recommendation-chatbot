@@ -51,7 +51,7 @@ def upload_blob(source_file_name, destination_blob_name, bucket_name=bucket_name
 def send_to_api(prompt, file_url=None):
     logger.info(f"Sending prompt to API: {prompt}")
     # Create the LLM instance
-    llm = ChatOpenAI()
+    llm = ChatOpenAI(openai_api_key=os.getenv("OPENAI_API_KEY"))
     # URL of the local FastAPI OpenAPI documentation
     # for local testing 
     # openapi_url = "http://127.0.0.1:8000/openapi.json"

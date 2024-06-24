@@ -14,12 +14,63 @@ from io import BytesIO
 from dotenv import load_dotenv
 import os
 
+
+import base64
+
+
 load_dotenv()
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+
+def get_complementary(image_url, user_prompt):
+    # Encode the image
+    # Prepare the messages for the API call
+    messages = [
+        {
+            "role": "system",
+            "content": "You are an AI assistant specialized in interior design and home decor. Your task is to suggest complementary items based on images and user prompts."
+        },
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text", 
+                    "text": f"""
+                        Based on this image and the user's request: '{user_prompt}', suggest a complementary item that would enhance the scene. Be specific about the item's characteristics (like color, style, or material) and provide a category for the suggested item.
+                        Generate a JSON output with the following fields: "item_details" and "category". 
+                        The item_details field should contain the style, color, and material of the item.
+                        The category should describe the type of the suggested item.
+                        Do not include the description of the item in the picture. Do not include the ```json ``` tag in the output.
+
+                        Example Input: An image representing a modern living room with a gray sofa.
+                        Example Output: {{"item_details": "A blue velvet throw pillow with a geometric pattern", "category": "Home Decor"}}
+                    """
+                },
+                {"type": "image_url", "image_url": {"url": image_url}},
+            ],
+        },
+    ]
+    # Make the API call
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=messages,
+        max_tokens=300,
+    )
+    # Extract the suggestion from the response
+    suggestion = response.choices[0].message.content
+    try:
+        suggestion_json = json.loads(suggestion)
+        item_details = suggestion_json.get('item_details', 'No details provided')
+        category = suggestion_json.get('category', 'No category provided')
+    except Exception as e:
+        logger.error(f"Error in extracting suggestion: {e}")
+        item_details, category = user_prompt, ""
+    # Process the suggestion to extract the item and category
+    return item_details, category
 
 def normal_chat(prompt):
     logger.info(f"Normal chat detected. Responding with the same prompt.")
@@ -97,16 +148,3 @@ def gpt_response_similar(user_prompt, metadata):
 
 
     return __gpt_response(similar_prompt)
-
-
-# def determine_intent(user_input):
-#     # First layer: Keyword matching
-#     intent = __check_intent_with_keywords(user_input)
-#     logger.info(f"Intent from keyword matching: {intent}")
-    
-#     # Second layer: If no intent found, use GPT-3.5
-#     if intent is None:
-#         intent = __check_intent_with_gpt(user_input)
-#         intent_json = json.loads(intent)
-    
-#     return intent

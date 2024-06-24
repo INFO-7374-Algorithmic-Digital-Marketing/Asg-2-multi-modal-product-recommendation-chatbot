@@ -9,6 +9,7 @@ from typing import Literal
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+logger.info("Starting the FastAPI server now...")
 
 app = FastAPI()
 
@@ -42,12 +43,16 @@ async def search(prompt: str, intent: Literal["show_similar", "show_complementar
             metadata = [str(mdb.extract_fields_from_document(mdb.get_document_by_id(search_results[i]["_id"]))) for i in range(num_of_items)]
             logger.info(f"Extracted metadata: {metadata}")
             return {"response" : metadata}
-
-    # elif intent == "show_complementary":
-    #     search_results = mdb.image_search_complementary(mdb.encode_text(prompt), num_of_items, category)
-    #     logger.info(f"Found {len(search_results)} search results")
-    #     metadata = [str(mdb.extract_fields_from_document(mdb.get_document_by_id(search_results[i]["_id"]))) for i in range(num_of_items)]
-    #     logger.info(f"Extracted metadata: {metadata}")
-    #     response = llm_layer.gpt_response_complementary(prompt, metadata, category)
-    #     logger.info(f"Generated response: {response}")
-    #     return {"response": response}
+    elif intent == "show_complementary":
+        if not image_path:
+            logger.info("Image not provided")
+            return {"response": "Didn't detect your image. Please provide an image for complementary suggestions."}
+        else:
+            image = requests.get(image_path).content
+            complementary_text, complementary_category = llm_layer.get_complementary(image_path, prompt)
+            logger.info(f"Complementary suggestion: {complementary_text}, Category: {complementary_category}")
+            search_results = mdb.image_search(mdb.encode_text(complementary_text), num_of_items)
+            logger.info(f"Found {len(search_results)} search results")
+            metadata = [str(mdb.extract_fields_from_document(mdb.get_document_by_id(search_results[i]["_id"]))) for i in range(num_of_items)]
+            logger.info(f"Extracted metadata: {metadata}")
+            return {"response": metadata, "complementary_suggestion": complementary_text, "category": complementary_category}
