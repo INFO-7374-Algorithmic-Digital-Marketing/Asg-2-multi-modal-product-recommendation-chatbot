@@ -1,0 +1,14 @@
+uvicorn
+fastapi
+openai
+numpy
+requests
+matplotlib
+torch
+bson
+pymongo
+sentence-transformers
+streamlit
+#openai-pydantic
+google-cloud 
+streamlit-extras
