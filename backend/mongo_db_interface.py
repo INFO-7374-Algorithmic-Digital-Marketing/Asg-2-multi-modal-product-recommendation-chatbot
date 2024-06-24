@@ -68,6 +68,142 @@ def image_search(emb, n = 9, collection=collection):
 
     return list(cursor)
 
+def hybrid_search(emb, category_name, n=9, vector_penalty=0.01, full_text_penalty=0.1): #Change the the limit value in vs and fts
+    """
+    Perform a hybrid search using both vector search and full-text search.
+    The `emb` parameter is the vector embedding of the query.
+    The `category_name` is the category to search for using full-text search.
+    The `vector_penalty` and `full_text_penalty` are used to control the influence of each search method.
+    """
+
+    pipeline = [
+        {
+        "$vectorSearch": {
+            "index": "vector_index",
+            "path": "embedding",
+            "queryVector": emb.tolist(),
+            "numCandidates": 100,
+            "limit": 20
+        }
+        },
+        {
+        "$group": {
+            "_id": None,
+            "docs": { "$push": "$$ROOT" }
+        }
+        },
+        {
+        "$unwind": {
+            "path": "$docs",
+            "includeArrayIndex": "rank"
+        }
+        },
+        {
+        "$addFields": {
+            "vs_score": {
+            "$divide": [1.0, { "$add": ["$rank", vector_penalty, 1] }] 
+            }
+        }
+        },
+        {
+        "$project": {
+            "vs_score": 1,
+            "_id": "$docs._id",
+            "title": "$docs.title",
+            "categories": "$docs.categories"
+        }
+        },
+        {
+        "$unionWith": {
+            "coll": "all_products",
+            "pipeline": [
+            {
+                "$search": {
+                "index": "default", # Use the name of your search index
+                "text": {
+                    "query": category_name,
+                    "path": "categories.categoryName"
+                }
+                }
+            },
+            {
+                "$limit": 20
+            },
+            {
+                "$group": {
+                "_id": None,
+                "docs": { "$push": "$$ROOT" }
+                }
+            },
+            {
+                "$unwind": {
+                "path": "$docs",
+                "includeArrayIndex": "rank"
+                }
+            },
+            {
+                "$addFields": {
+                "fts_score": {
+                    "$divide": [1.0, { "$add": ["$rank", full_text_penalty, 1] }]
+                }
+                }
+            },
+            {
+                "$project": {
+                "fts_score": 1,
+                "_id": "$docs._id",
+                "title": "$docs.title",
+                "categories": "$docs.categories"
+                }
+            }
+            ]
+        }
+        },
+        {
+        "$group": {
+            "_id": "$_id",
+            "vs_score": { "$max": "$vs_score" },
+            "fts_score": { "$max": "$fts_score" },
+            "categories": { "$first": "$categories" }
+        }
+        },
+        {
+        "$project": {
+            "_id": 1,
+            "title": 1,
+            "vs_score": { "$ifNull": ["$vs_score", 0] },
+            "fts_score": { "$ifNull": ["$fts_score", 0] },
+            "categories": 1
+        }
+        },
+        {
+        "$project": {
+            "score": { "$add": ["$fts_score", "$vs_score"] },
+            "_id": 1,
+            "title": 1,
+            "vs_score": 1,
+            "fts_score": 1,
+            "categories": 1
+        }
+        },
+        {
+        "$sort": { "score": -1 }
+        },
+        {
+        "$limit": n
+        }
+    ]
+
+    # Execute the aggregation pipeline
+    results = collection.aggregate(pipeline)
+
+    # print(list(results))
+    # Iterate over the results and print them
+    # for result in results:
+    #     print(result)
+    # import pdb; pdb.set_trace()
+    return [i for i in results]
+
 def get_document_by_id(doc_id, collection=collection): 
     """
     Retrieve a MongoDB document by its _id and return all its fields as a dictionary.

@@ -12,6 +12,7 @@ import requests
 from PIL import Image
 from io import BytesIO
 from dotenv import load_dotenv
+import os
 
 load_dotenv()
 # Set up logging

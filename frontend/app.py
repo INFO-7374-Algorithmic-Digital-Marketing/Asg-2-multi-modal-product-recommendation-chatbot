@@ -22,6 +22,8 @@ from frontend_utils import (
 # Load environment variables
 load_dotenv()
 
+api_host = os.getenv('API_HOST')
+
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -55,7 +57,8 @@ def send_to_api(prompt, file_url=None):
     # openapi_url = "http://127.0.0.1:8000/openapi.json"
 
     # once docker compose is up and running
-    openapi_url = "http://backend:8000/openapi.json"
+    # openapi_url = "http://backend:8000/openapi.json"
+    openapi_url = f"{api_host}/openapi.json"
     # Fetch the OpenAPI spec to ensure it's accessible
     def fetch_openapi_spec(url):
         response = requests.get(url)
@@ -65,7 +68,8 @@ def send_to_api(prompt, file_url=None):
     try:
         openapi_spec_json = fetch_openapi_spec(openapi_url)
         # Manually add the base URL to the OpenAPI spec
-        base_url = "http://backend:8000"
+        # base_url = "http://backend:8000"
+        base_url = api_host
         if "servers" not in openapi_spec_json:
             openapi_spec_json["servers"] = [{"url": base_url}]
         else:
