@@ -3,7 +3,7 @@
 DineDecor AI is a personal dining room design assistant that leverages AI to help users find and visualize complementary decor items for their dining spaces.
 
 # Architecture Diagram
-![Screenshot 2024-06-22 at 7 40 50 PM](https://github.com/INFO-7374-Algorithmic-Digital-Marketing/multi-modal-product-recommendation-chatbot/blob/main/assignment2_arch_diagram%20(1).jpg)
+![Screenshot 2024-06-22 at 7 40 50 PM](https://github.com/INFO-7374-Algorithmic-Digital-Marketing/multi-modal-product-recommendation-chatbot/blob/main/assignment2_arch_diagram.drawio%20(1).png)
 
 
 ![Screenshot 2024-06-22 at 7 40 50 PM](https://github.com/INFO-7374-Algorithmic-Digital-Marketing/multi-modal-product-recommendation-chatbot/assets/37287532/13df19bb-d789-4980-b84d-94aa2e2ebe4b)
